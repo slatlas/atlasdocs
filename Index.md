@@ -1,6 +1,6 @@
 ﻿# Atlas Documentation
 
-ABP Framework is a complete **infrastructure** based on the **ASP.NET Core** to create **modern web applications** and **APIs** by following the software development **best practices** and the **latest technologies**.
+Atlas Software was designed to give users a complete view of your complex operation from any level. Giving you the ability to accurately analyze data, critical to your business decisions. The systems genesis was the need to combine information from multiple sources and fuse them into a story that’s easily followed. The system contains all the major workflows to complete your supply chain. Major components include product inventory management, sales order and invoicing, scheduling, billing, lab data imports, and reporting.  
 
 ## Getting Started
 
