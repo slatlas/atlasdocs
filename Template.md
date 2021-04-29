@@ -3,8 +3,8 @@
 ## SubHeader
 
 * [Bullet List Link](Tutorials/Navigation/Index.md) 
-* Bullet List Link
-* Bullet List Link
+* Bullet List
+* Bullet List
 
 
 * Sub List
