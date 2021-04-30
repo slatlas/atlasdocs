@@ -40,6 +40,66 @@
       ]
     },
     {
+      "text": "Mobile",
+      "items": [
+        {
+          "text": "Login",
+          "path": "Account/Login.md",
+          "items": [
+            {
+              "text": "1: Setup Your Development Environment",
+              "path": "Getting-Started-Setup-Environment.md"
+            },
+            {
+              "text": "2: Creating a New Solution",
+              "path": "Getting-Started-Create-Solution.md"
+            },
+            {
+              "text": "3: Running the Solution",
+              "path": "Getting-Started-Running-Solution.md"
+            }
+          ]
+        },
+        {
+          "text": "Treatment Mode",
+          "path": "Mobile/Treating.md"
+        },
+        {
+          "text": "Sampling Mode",
+          "path": "Mobile/Sampling.md"
+        },
+        {
+          "text": "Discovery Mode",
+          "path": "Mobile/Discovery.md"
+        },
+        {
+          "text": "Treatments",
+          "path": "Mobile/Treatments.md"
+        },
+        {
+          "text": "Delivery Orders",
+          "path": "Mobile/DeliveryOrders.md"
+        },
+        {
+          "text": "Sales Orders",
+          "path": "Mobile/SalesOrders.md"
+        },
+        {
+          "text": "Lab Samples",
+          "path": "Mobile/Samples.md"
+        },
+        {
+          "text": "Sync",
+          "path": "Mobile/Sync.md"
+        },
+        {
+          "text": "Settings",
+          "path": "Mobile/Settings.md"
+        }
+
+      ]
+    },
+    {
       "text": "Data Imports",
       "items": [
         {
@@ -359,8 +419,8 @@
           "path": "Object-To-Object-Mapping.md"
         },
         {
-          "text":"String Encryption",
-          "path":"String-Encryption.md"
+          "text": "String Encryption",
+          "path": "String-Encryption.md"
         },
         {
           "text": "Text Templating",
