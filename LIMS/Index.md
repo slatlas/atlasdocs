@@ -16,9 +16,9 @@
 ## LIMS User Dashboard
 The [User Dashboard](../Tutorials/User-Dashboard-Edit.md) comes with a varity of LIMS Widgets that can be customized to what is important to you.
 
-![image-lims-dashboard](images/LIMSDashboard.PNG)
+![image-lims-dashboard](../images/LIMSDashboard.PNG)
 
 ## LIMS Management Dashboard
 The [LIMS Management Dashboard](LIMS-Management-Dashboard.md) is used by lab technicians and admins to process request and approve results through desired workflow.
 
-![image-lims-grid](images/LIMSGrid.PNG)
+![image-lims-grid](../images/LIMSGrid.PNG)
