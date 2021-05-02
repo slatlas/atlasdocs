@@ -2,23 +2,38 @@
 
 Lab Orders are request for testing made by Service Technician, Account Managers, Business Managers, or Lab Technicians.
 
+<br>
+<br>
+
 ## Create a new Lab Order
 
 #### Lab Technicians
 
 Lab Technicians with access to the LIMS Management Dashboard can create and manage every function of a Lab Order in the dashboard.
 
-Select the + menu to open the create form.
-![image-logo](../images/LIMS-Dashboard-Create-Lab-Order.png)
+![image-create-lab-order](../images/LIMSGrid.PNG)
 
-#### Service Tech or Managers
+
+#### Service Techs, Managers
+
+All other users with access to create Lab Orders can access their submitted lab orders on the customer or location views and through the Action Menu on the User Dashboard.
+
+![image-user-dashboard-actions-menu](../images/User-Dashboard-Actions-Menu.PNG)
+
+![image-customers-lab-orders](../images/Customers-Lab-Orders.PNG)
+
+
+
+Select the **+** menu to open the create form.  Select the required fields and click **Save**.
+
+![image-dashboard-create-lab-order](../images/LIMS-Dashboard-Create-Lab-Order.png)
 
 
 ### Create New Lab Order Form
-![image-logo](../images/Create-Lab-Order.PNG)
+![image-create-lab-order](../images/Create-Lab-Order.PNG)
 
 
-* Fields
+#### Fields
   * **Personnel** is readonly and inherited from the user submitted the form.  This personnel is saved as the requestor and will receive the final lab sample results report(s).
   * **Collection Date** is the date the sample was collect in the field.  Clicking the date opens the date picker and allows the user to select a previous day.
   * **Lab Types** are a collection of types of test to perform on sample.  A single selection is recommended unless the sample can be tested for multiple test types with 1 instrument.
@@ -32,4 +47,5 @@ Select the + menu to open the create form.
   * **Comments** are notes about the sample taken and its environment.
 
 
-The **Save** button will highlight when all required fields are set.  Saving will add order to the grid list and assign it the next incremental Sample Id.  Typically a numeric identifier containing the year and number of lab order request for that calendar year.
+
+> The **Save** button will highlight when all required fields are set.  Saving will add the lab order to the grid list and assign it the next incremental Sample Id.  Typically the Sample Id is a numeric identifier containing the year and number of lab order request for that calendar year.

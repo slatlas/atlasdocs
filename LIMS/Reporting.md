@@ -1,6 +1,6 @@
-﻿# Header
+﻿# Lab Information Management System (LIMS)
 
-## SubHeader
+## Reporting
 
 * [Bullet List Link](Tutorials/Navigation/Index.md) 
 * Bullet List

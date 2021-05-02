@@ -1,15 +1,15 @@
-﻿# Header
+﻿# Lab Information Management System (LIMS)
 
-## SubHeader
+## Setup
 
-* [Bullet List Link](Tutorials/Navigation/Index.md) 
-* Bullet List
-* Bullet List
+#### Lab Types
 
+#### Field Types
 
-* Sub List
-  * [Entity Framework Core Integration](Entity-Framework-Core-Integration.md)
-  * [MongoDB Integration](MongoDB-Integration.md)  
+#### Import Types
+
+#### Fields
+
 
 
 ![image-logo](images/sllogo.PNG)
