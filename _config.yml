@@ -1,1 +1,2 @@
+site_url: https://docs.sourcelogicatlas.com/documents/atlasdocs/latest/  # used for using local images in production
 theme: jekyll-theme-slate

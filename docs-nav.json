@@ -40,6 +40,53 @@
       ]
     },
     {
+      "text": "LIMS",
+      "path": "LIMS/Index.md",
+      "items": [
+        {
+          "text": "Create Lab Order",
+          "path": "LIMS/Create-Lab-Order.md"
+        },
+        {
+          "text": "Create Lab Results",
+          "path": "LIMS/Create-Lab-Results.md"
+        },
+        {
+          "text": "Management Dashboard",
+          "path": "LIMS/LIMS-Management-Dashboard.md"
+        },
+        {
+          "text": "Reporting",
+          "path": "LIMS/Reporting.md"
+        },
+        {
+          "text": "Setup",
+          "path": "LIMS/Setup.md"
+        },
+        {
+          "text": "Import Lab Orders",
+          "path": "LIMS/Import-Lab-Orders.md"
+        },
+        {
+          "text": "Import Lab Results",
+          "path": "LIMS/Import-Lab-Results.md"
+        },
+        {
+          "text": "Analysis",
+          "path": "LIMS/Analysis.md"
+        },
+        {
+          "text": "User Dashboard",
+          "path": "LIMS/Index.md"
+        },
+        {
+          "text": "Glossary",
+          "path": "LIMS/Glossary.md"
+        }
+
+      ]
+    },
+    {
       "text": "Mobile",
       "items": [
         {
