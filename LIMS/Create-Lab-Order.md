@@ -11,7 +11,7 @@ Lab Orders are request for testing made by Service Technician, Account Managers,
 
 Lab Technicians with access to the LIMS Management Dashboard can create and manage every function of a Lab Order in the dashboard.
 
-![image-create-lab-order](../images/LIMSGrid.PNG)
+![image-create-lab-order](/images/LIMSGrid.PNG)
 
 
 #### Service Techs, Managers
