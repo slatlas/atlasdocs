@@ -83,22 +83,8 @@
       "text": "Mobile",
       "items": [
         {
-          "text": "Login",
-          "path": "Account/Login.md",
-          "items": [
-            {
-              "text": "1: Setup Your Development Environment",
-              "path": "Getting-Started-Setup-Environment.md"
-            },
-            {
-              "text": "2: Creating a New Solution",
-              "path": "Getting-Started-Create-Solution.md"
-            },
-            {
-              "text": "3: Running the Solution",
-              "path": "Getting-Started-Running-Solution.md"
-            }
-          ]
+          "text": "Setup",
+          "path": "Mobile/Intro.md",
         },
         {
           "text": "Treatment Mode",
