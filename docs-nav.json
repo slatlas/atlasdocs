@@ -10,7 +10,7 @@
       "items": [
         {
           "text": "Login",
-          "path": "Web/login/Login.md",
+          "path": "Web/login/login.md",
           "items": [
             {
               "text": "Forgot Password",
@@ -20,7 +20,7 @@
         },
         {
           "text": "Menu Navigation",
-          "path": "Tutorials/Navigation/index.md"
+          "path": "Web/navigation.md"
         },
         {
           "text": "Dashboard Configuration",
