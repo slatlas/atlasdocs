@@ -6,7 +6,7 @@
     },
     {
       "text": "Getting Started",
-      "path":  "Tutorials/Getting-Started.md"
+      "path":  "Tutorials/Getting-Started.md",
       "items": [
         {
           "text": "Login",
