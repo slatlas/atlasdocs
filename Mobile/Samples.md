@@ -1,15 +1,16 @@
-﻿# Header
+﻿# Sampling Mode
 
-## SubHeader
+In this mode the map will allow a user to
 
-* [Bullet List Link](Tutorials/Navigation/Index.md) 
-* Bullet List
-* Bullet List
+### Map
 
+![image-logo](../images/MapView.PNG)
 
-* Sub List
-  * [Entity Framework Core Integration](Entity-Framework-Core-Integration.md)
-  * [MongoDB Integration](MongoDB-Integration.md)  
+##### Actions
 
+* Add New Location
+* Center Map On Current Location
+* Change Map Type (Street, Satelite, Hybrid)
+* Change Map Type (Treating, Sampling, Discovery)
+* Click Map Pin For Location View
 
-![image-logo](images/sllogo.PNG)

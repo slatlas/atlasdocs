@@ -1,6 +1,6 @@
 ﻿# Download and Install - Atlas Chem Pro
 
-You can download the app from both the Google Play store or from the Apple App Store. The app can be found in a search under Altas Chem Pro. 
+You can download the app from both the Google Play store, or from the Apple App Store. The app can be found by searching for Altas Chem Pro. 
 Once you've downloaded the app, you can proceed to the login.
 
  
