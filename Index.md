@@ -4,7 +4,7 @@ Atlas Software was designed to give users a complete view of your complex operat
 
 ## Getting Started
 
-* [Quick Start](Tutorials/Navigation/Index.md) is a quick-start tutorial to login and navigate the Atlas application. Start with this tutorial if you want to quickly understand basic setup and navigation.
-* [Getting Started](Getting-Started.md) guide can be used to login and navigate the Atlas application and explore the different options and details.
+* [Quick Start](Tutorials/quickstart.md) is a quick-start tutorial to login and navigate the Atlas application. Start with this tutorial if you want to quickly understand basic setup and navigation.
+* [Getting Started](Tutorials/Getting-Started.md) guide can be used to login and navigate the Atlas application and explore the different options and details.
 * [Tutorials](Tutorials/Index.md) is a complete tutorial to understand and use all aspects of the Atlas solution.
 

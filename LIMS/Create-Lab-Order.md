@@ -3,7 +3,6 @@
 Lab Orders are request for testing made by Service Technician, Account Managers, Business Managers, or Lab Technicians.
 
 <br>
-<br>
 
 ## Create a new Lab Order
 
