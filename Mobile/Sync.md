@@ -1,15 +1,6 @@
-﻿# Header
+﻿# Sync
 
-## SubHeader
+The app is capable of doing all tasks without the need for internet. In order for this to work, a local copy of the data is stored on the device. 
+Syncing of this data is done continously in the background, every 5 minutes. Here you can manually sync the data when needed. 
 
-* [Bullet List Link](Tutorials/Navigation/Index.md) 
-* Bullet List
-* Bullet List
-
-
-* Sub List
-  * [Entity Framework Core Integration](Entity-Framework-Core-Integration.md)
-  * [MongoDB Integration](MongoDB-Integration.md)  
-
-
-![image-logo](images/sllogo.PNG)
+![image-logo](../images/MobileSync.PNG)
