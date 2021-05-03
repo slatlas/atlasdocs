@@ -2,40 +2,33 @@
   "items": [
     {
       "text": "Quick Start",
-      "path": "Videos/Index.md"
+      "path": "Tutorials/quickstart.md"
     },
     {
       "text": "Getting Started",
+      "path":  "Tutorials/Getting-Started.md"
       "items": [
         {
           "text": "Login",
-          "path": "Account/Login.md",
+          "path": "Web/login/Login.md",
           "items": [
             {
-              "text": "1: Setup Your Development Environment",
-              "path": "Getting-Started-Setup-Environment.md"
-            },
-            {
-              "text": "2: Creating a New Solution",
-              "path": "Getting-Started-Create-Solution.md"
-            },
-            {
-              "text": "3: Running the Solution",
-              "path": "Getting-Started-Running-Solution.md"
+              "text": "Forgot Password",
+              "path": "Web/login/forgotpassword.md"
             }
           ]
         },
         {
           "text": "Menu Navigation",
-          "path": "Navigation/Menu.md"
+          "path": "Tutorials/Navigation/index.md"
+        },
+        {
+          "text": "Dashboard Configuration",
+          "path": "Web/dashboard/customizing.md"
         },
         {
           "text": "User Settings",
           "path": "Account/Settings.md"
-        },
-        {
-          "text": "Password Reset",
-          "path": "Account/PasswordReset.md"
         }
       ]
     },
@@ -291,8 +284,12 @@
           "path": "Exception-Handling.md"
         },
         {
+          "text": "User Management",
+          "path": "Web/admin/usermanagement.md"
+        },
+        {
           "text": "Settings",
-          "path": "Settings.md"
+          "path": "Web/admin/settings.md"
         },
         {
           "text": "Connection Strings",
