@@ -10,7 +10,8 @@ has the ability to click on any location to see the detailed information.
 
 ##### Actions
 
-* Add New Location
+* [Add New Location](NewLocation.md)
+* [View Location](Location.md)
 * Center Map On Current Location
 * Change Map Type (Street, Satelite, Hybrid)
 * Change Map Type (Treating, Sampling, Discovery)
