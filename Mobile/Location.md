@@ -1,22 +1,18 @@
-﻿# Truck Treating Mode
+﻿# Location View
 
-This part of the app allows a user to view a map of locations for scheduled deliveries. Once the map is loaded a pin will show on the map, 
-giving you a visual indicator of the location and status.
-Green is for locations that have already been treated within the allotted time frame, 
-and do not require a treatment. 
-Yellow pins indicate that the location will need to be treated in the next few days.
-Red pins indicate that the location has a scheduled delivery 
-that should occur on that day. Moving close to a location will bring up the location view. 
+This view will show all of the information for a given location. From here you 
+can see the treatment data, treatment schedules, any lab orders, the 
+actual position on the map, and events, and finally all of the notes.
 
-### Map
+### View
 
-![image-logo](../images/MapView.PNG)
+![image-logo](../images/LocationView.PNG)
 
 ##### Actions
 
-* Add New Location
-* Center Map On Current Location
-* Change Map Type (Street, Satelite, Hybrid)
-* Change Map Type (Treating, Sampling, Discovery)
-* Click Map Pin For Location View
+* Add New Lab Order
+* Add New Event (Failure)
+* Add New Note
+
+* Readjust gps       ![image-logo](../images/GPSCenter.PNG)
 
