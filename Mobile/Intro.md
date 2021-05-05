@@ -15,4 +15,4 @@ App Store Code:
 * [Treatments](Treatments.md):  Review for any chemical treatments.
 * [Sales Orders](SalesOrders.md):  List of assigned sales orders.
 * [Delivery Orders](DeliveryOrders.md):  List of assigned delivery orders.
-* [Lab Orders](LabOrders.md):  List of lab ordersw created by a user.
+* [Lab Orders](LabOrders.md):  List of lab orders created by a user.

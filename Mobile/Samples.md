@@ -1,16 +1,15 @@
-﻿# Sampling Mode
+﻿# Lab Samples
 
-In this mode the map will allow a user to
+This section of the app is used to create and edit lab orders. 
+The view will list any lab orders currently being processed. Once they have been reported they will no longer show, and will only be available on 
+the web. 
 
-### Map
+### View
 
-![image-logo](../images/MapView.PNG)
+![image-logo](../images/LabOrders.PNG)
 
 ##### Actions
 
-* Add New Location
-* Center Map On Current Location
-* Change Map Type (Street, Satelite, Hybrid)
-* Change Map Type (Treating, Sampling, Discovery)
-* Click Map Pin For Location View
-
+* Add New Lab Order
+* Click to Edit
+* Sync and Refresh
