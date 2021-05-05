@@ -2,7 +2,7 @@
 
 Default url for login is https://tm.sourcelogicatlas.com/account/login
 
-![login.PNG](../images/login.PNG)
+![login.PNG](../../images/login.PNG)
 
 Use your **Tech Management** email and password for login. 
 
@@ -10,7 +10,7 @@ Use your **Tech Management** email and password for login.
 
 Also if this is your first time to login you will have to change your password on first login and will see the change password screen.
 
-![](../images/resetpassword.PNG)
+![](../../images/resetpassword.PNG)
 After the login, you are redirected to your dashboard.
 
 
@@ -19,4 +19,4 @@ After the login, you are redirected to your dashboard.
 
  ## Next Step
 
-* [Dashboard Customization](/dashboard/customizing.md)
+* [Dashboard Customization](../dashboard/customizing.md)
