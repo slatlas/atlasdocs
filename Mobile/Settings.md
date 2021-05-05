@@ -1,15 +1,14 @@
-﻿# Header
+﻿# Settings
 
-## SubHeader
-
-* [Bullet List Link](Tutorials/Navigation/Index.md) 
-* Bullet List
-* Bullet List
+Setting for the app inlude the following.
 
 
-* Sub List
-  * [Entity Framework Core Integration](Entity-Framework-Core-Integration.md)
-  * [MongoDB Integration](MongoDB-Integration.md)  
+* Company Name
+* User Name
+* Personnel Name
+* Map Zoom : Controls how far to zoom in when the map loads
+* Location Alert Radius : Controls how close you need to be to a location for 
+the system to alert the user.
 
 
-![image-logo](images/sllogo.PNG)
+![image-logo](../images/MobileSettings.PNG)
