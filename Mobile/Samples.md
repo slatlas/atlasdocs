@@ -10,6 +10,6 @@ the web.
 
 ##### Actions
 
-* Add New Lab Order
-* Click to Edit
+* [Add New Lab Order](LabOrder.md) 
+* [Click To Edit Lab Order](LabOrder.md) 
 * Sync and Refresh
