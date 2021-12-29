@@ -17,3 +17,20 @@ After the login, we are redirected to your dashboard.
 
 ### User Lockout
  Users are locked out for specified duration if they enter wrong password for a specified amount of times.
+
+
+
+
+### Create Delivery Order
+<video width="320" height="240" controls>
+  <source src="NewOrderForm_DO_Part1.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="NewOrderForm_DO_Part2.mp4" type="video/mp4">
+</video>
+
+### Import Delivery Order
+<video width="320" height="240" controls>
+  <source src="NewOrderImportTraining.mp4" type="video/mp4">
+</video>
