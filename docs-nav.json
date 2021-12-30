@@ -29,6 +29,10 @@
         {
           "text": "User Settings",
           "path": "Web/Account/settings.md"
+        },
+        {
+          "text": "Videos",
+          "path": "Tutorials/Index.md"
         }
       ]
     },
