@@ -23,10 +23,6 @@ This tutorial explains how to **login and use** the web version of Atlas. Follow
   <source src="https://docs.sourcelogicatlas.com/videos/NewOrderForm_DO_Part2.mp4" type="video/mp4">
 </video>
 
-### Import Delivery Order
-<video width="320" height="240" controls>
-  <source src="https://docs.sourcelogicatlas.com/videos/NewOrderImportTraining.mp4" type="video/mp4">
-</video>
 
 
 
