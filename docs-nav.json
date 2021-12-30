@@ -181,6 +181,10 @@
         {
           "text": "Location View",
           "path": "Modules/Location.md"
+        },
+        {
+          "text": "Videos",
+          "path": "Tutorials/Index.md"
         }
       ]
     },
