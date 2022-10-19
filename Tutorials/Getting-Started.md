@@ -15,18 +15,18 @@ This tutorial explains how to **login and use** the web version of Atlas. Follow
 
 
 ### Create Delivery Order
-<video width="320" height="240" controls>
+<!--<video width="320" height="240" controls>
   <source src="https://docs.sourcelogicatlas.com/videos/NewOrderForm_DO_Part1.mp4" type="video/mp4">
-</video>
+</video>-->
 
-<video width="320" height="240" controls>
+<!--<video width="320" height="240" controls>
   <source src="https://docs.sourcelogicatlas.com/videos/NewOrderForm_DO_Part2.mp4" type="video/mp4">
-</video>
+</video>-->
 
 ### Mobile Delivery Orders
-<video width="320" height="240" controls>
+<!--<video width="320" height="240" controls>
   <source src="https://docs.sourcelogicatlas.com/videos/NewOrderForm_DO_Part3.mp4" type="video/mp4">
-</video>
+</video>-->
 
 
 
