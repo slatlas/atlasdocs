@@ -197,17 +197,17 @@
       "items": [
         {
           "text": "System",
-          "path": "System.md",
+          "path": "System/Index.md",
           "items": [
             {
               "text": "Roles",
-              "path": "Roles.md"
+              "path": "Roles/Index.md"
             }
           ]
         },
         {
           "text": "Schedules",
-          "path": "Schedules.md"
+          "path": "Schedules/Index.md"
         }
       ]
     },
