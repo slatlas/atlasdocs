@@ -52,17 +52,9 @@ A user can download his/her collected data using this menu item.
 
 <img src="../../images/gdpr_download_item.png" alt="Login attempts" class="img-thumbnail" />
 
-Atlas includes an interface named **IUserCollectedDataProvider** and there are 3 different implementation for this interface. 
-
-* **ChatUserCollectedDataProvider.cs** creates an excel file with the chat conversations of the user.
-* **ProfilePictureUserCollectedDataProvider.cs** creates a image file with the user's profile picture.
-* **ProfileUserCollectedDataProvider.cs** creates a text file including user's profile information.
-
 Atlas compress those files into a new zip file and sends it to user as a notification so user can download his/her data.
-
-If you create a new implementation of **IUserCollectedDataProvider** interface, Atlas will automatically include your file into generated zip file as well.
 
 ## Logout
 
-**TokenAuthController** is used to logout the user. When the user clicks to **Logout** button, user's token is invalidated on the server side and removed from client side and the user is redirected to login page.
+When the user clicks to **Logout** button, user's token is invalidated on the server side and removed from client side and the user is redirected to login page.
 
