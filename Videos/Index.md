@@ -1,11 +1,11 @@
 ﻿# Quick Start
 
 #### Login
-Default url for login is https://tm.sourcelogicatlas.com/account/login
+Default url for login is https://[CompanyName].sourcelogicatlas.com/account/login
 
 ![login.PNG](../images/login.PNG)
 
-Use your **Tech Management** email and password for login. 
+Use your **Company** email and password for login. 
 
 ###### If you do not have an account please contact your manager to get your account created .
 

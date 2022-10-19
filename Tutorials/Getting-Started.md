@@ -1,6 +1,6 @@
 # Getting Started
 
-> This document is aimed to login and use Source Logic's Atlas for first time users. It's assumed that you have an account and current employee of Tech Management.
+> This document is aimed to login and use Source Logic's Atlas for first time users. It's assumed that you have an account and current employee of subscribed company.
 
 
 
