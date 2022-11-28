@@ -102,10 +102,10 @@
           "text": "Discovery Mode",
           "path": "Mobile/Discovery.md"
         },
-        {
-          "text": "Treatments",
-          "path": "Mobile/Treatments.md"
-        },
+        //{
+        //  "text": "Treatments",
+        //  "path": "Mobile/Treatments.md"
+        //},
         {
           "text": "Delivery Orders",
           "path": "Mobile/DeliveryOrders.md"
