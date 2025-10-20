@@ -37,6 +37,262 @@
       ]
     },
     {
+      "text": "Workflow Guides",
+      "path": "Guides/Workflows/Index.md",
+      "items": [
+        {
+          "text": "Order-to-Cash",
+          "items": [
+            {
+              "text": "Sales Orders",
+              "path": "Guides/Workflows/SalesOrders.md"
+            },
+            {
+              "text": "Delivery Orders",
+              "path": "Guides/Workflows/DeliveryOrders.md"
+            },
+            {
+              "text": "Invoicing",
+              "path": "Guides/Workflows/Invoicing.md"
+            }
+          ]
+        },
+        {
+          "text": "Treatment Operations",
+          "items": [
+            {
+              "text": "Treatment Routes",
+              "path": "Guides/Workflows/TreatmentRoutes.md"
+            },
+            {
+              "text": "Treatment Scheduling",
+              "path": "Guides/Workflows/TreatmentScheduling.md"
+            },
+            {
+              "text": "Field Treatments",
+              "path": "Guides/Workflows/FieldTreatments.md"
+            },
+            {
+              "text": "Treatment Tracking",
+              "path": "Guides/Workflows/TreatmentTracking.md"
+            }
+          ]
+        },
+        {
+          "text": "Inventory & Procurement",
+          "items": [
+            {
+              "text": "Purchase Orders",
+              "path": "Guides/Workflows/PurchaseOrders.md"
+            },
+            {
+              "text": "Inventory Management",
+              "path": "Guides/Workflows/InventoryManagement.md"
+            },
+            {
+              "text": "Receiving Shipments",
+              "path": "Guides/Workflows/ReceivingShipments.md"
+            }
+          ]
+        },
+        {
+          "text": "Laboratory",
+          "items": [
+            {
+              "text": "Lab Orders",
+              "path": "Guides/Workflows/LabOrders.md"
+            },
+            {
+              "text": "Lab Results",
+              "path": "Guides/Workflows/LabResults.md"
+            },
+            {
+              "text": "QC Testing",
+              "path": "Guides/Workflows/QCTesting.md"
+            }
+          ]
+        },
+        {
+          "text": "Setup & Configuration",
+          "items": [
+            {
+              "text": "Customer Setup",
+              "path": "Guides/Workflows/CustomerSetup.md"
+            },
+            {
+              "text": "Location Setup",
+              "path": "Guides/Workflows/LocationSetup.md"
+            },
+            {
+              "text": "Price Schedules",
+              "path": "Guides/Workflows/PriceSchedules.md"
+            },
+            {
+              "text": "Product Setup",
+              "path": "Guides/Workflows/ProductSetup.md"
+            },
+            {
+              "text": "Product Blending",
+              "path": "Guides/Workflows/ProductBlending.md"
+            }
+          ]
+        },
+        {
+          "text": "Mobile Operations",
+          "items": [
+            {
+              "text": "Mobile App Setup",
+              "path": "Guides/Workflows/MobileSetup.md"
+            },
+            {
+              "text": "Mobile Treatment Mode",
+              "path": "Guides/Workflows/MobileTreatmentMode.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Area Management",
+      "path": "AreaManagement/Index.md",
+      "items": [
+        {
+          "text": "Customers",
+          "path": "AreaManagement/Customers.md"
+        },
+        {
+          "text": "Customer Projects",
+          "path": "AreaManagement/CustomerProjects.md"
+        },
+        {
+          "text": "Leases",
+          "path": "AreaManagement/Leases.md"
+        },
+        {
+          "text": "Areas",
+          "path": "AreaManagement/Areas.md"
+        },
+        {
+          "text": "Locations",
+          "path": "AreaManagement/Locations.md"
+        },
+        {
+          "text": "Batteries",
+          "path": "AreaManagement/Batteries.md"
+        },
+        {
+          "text": "Personnel",
+          "path": "AreaManagement/Personnel.md"
+        },
+        {
+          "text": "Vendors",
+          "path": "AreaManagement/Vendors.md"
+        },
+        {
+          "text": "Field Alerts",
+          "path": "AreaManagement/FieldAlerts.md"
+        }
+      ]
+    },
+    {
+      "text": "Distribution",
+      "path": "Distribution/Index.md",
+      "items": [
+        {
+          "text": "Sales Orders",
+          "path": "Distribution/SalesOrders.md"
+        },
+        {
+          "text": "Delivery Orders",
+          "path": "Distribution/DeliveryOrders.md"
+        },
+        {
+          "text": "Order Scheduling",
+          "path": "Distribution/OrderScheduling.md"
+        },
+        {
+          "text": "Order Tracker",
+          "path": "Distribution/OrderTracker.md"
+        },
+        {
+          "text": "Treatments",
+          "path": "Distribution/Treatments.md"
+        },
+        {
+          "text": "Treatment Routes",
+          "path": "Distribution/TreatmentRoutes.md"
+        },
+        {
+          "text": "Treatment Approvals",
+          "path": "Distribution/TreatmentApprovals.md"
+        },
+        {
+          "text": "Route Tracker",
+          "path": "Distribution/RouteTracker.md"
+        }
+      ]
+    },
+    {
+      "text": "Product Management",
+      "path": "Product/Index.md",
+      "items": [
+        {
+          "text": "Products",
+          "path": "Product/Products.md"
+        },
+        {
+          "text": "Product Inventory",
+          "path": "Product/ProductInventory.md"
+        },
+        {
+          "text": "Location Tank Inventory",
+          "path": "Product/LocationTankInventory.md"
+        },
+        {
+          "text": "Purchase Orders",
+          "path": "Product/PurchaseOrders.md"
+        },
+        {
+          "text": "Internal Purchase Orders",
+          "path": "Product/InternalPurchaseOrders.md"
+        },
+        {
+          "text": "Shipments",
+          "path": "Product/Shipments.md"
+        },
+        {
+          "text": "Warehouses",
+          "path": "Product/Warehouses.md"
+        },
+        {
+          "text": "Price Schedules",
+          "path": "Product/PriceSchedules.md"
+        },
+        {
+          "text": "Product Blend Batches",
+          "path": "Product/ProductBlendBatchs.md"
+        },
+        {
+          "text": "Lab QC Requests",
+          "path": "Product/LabQCRequests.md"
+        }
+      ]
+    },
+    {
+      "text": "Billing",
+      "path": "Billing/Index.md",
+      "items": [
+        {
+          "text": "Ready To Bill",
+          "path": "Billing/ReadyToBill.md"
+        },
+        {
+          "text": "Invoices",
+          "path": "Billing/Invoices.md"
+        }
+      ]
+    },
+    {
       "text": "LIMS",
       "path": "LIMS/Index.md",
       "items": [
@@ -62,29 +318,25 @@
         },
         {
           "text": "Import Lab Orders",
-          "path": "LIMS/Import-Lab-Orders.md"
+          "path": "LIMS/Imports-Lab-Order.md"
         },
         {
           "text": "Import Lab Results",
-          "path": "LIMS/Import-Lab-Results.md"
+          "path": "LIMS/Imports-Lab-Results.md"
         },
         {
           "text": "Analysis",
           "path": "LIMS/Analysis.md"
         },
         {
-          "text": "User Dashboard",
-          "path": "LIMS/Index.md"
-        },
-        {
           "text": "Glossary",
           "path": "LIMS/Glossary.md"
         }
-
       ]
     },
     {
       "text": "Mobile",
+      "path": "Mobile/Dashboard.md",
       "items": [
         {
           "text": "Setup",
@@ -102,10 +354,6 @@
           "text": "Discovery Mode",
           "path": "Mobile/Discovery.md"
         },
-        //{
-        //  "text": "Treatments",
-        //  "path": "Mobile/Treatments.md"
-        //},
         {
           "text": "Delivery Orders",
           "path": "Mobile/DeliveryOrders.md"
@@ -126,16 +374,28 @@
           "text": "Settings",
           "path": "Mobile/Settings.md"
         }
-
       ]
     },
     {
+      "text": "Calendar",
+      "path": "Calendar/Index.md"
+    },
+    {
+      "text": "Blends",
+      "path": "Blends/Index.md"
+    },
+    {
+      "text": "Production",
+      "path": "Production/Index.md"
+    },
+    {
+      "text": "Reports",
+      "path": "Reports/Index.md"
+    },
+    {
       "text": "Data Imports",
+      "path": "Imports/Index.md",
       "items": [
-        {
-          "text": "Template",
-          "path": "Imports/Index.md"
-        },
         {
           "text": "Customers",
           "path": "Imports/Customers.md"
@@ -196,18 +456,32 @@
       "text": "Administration",
       "items": [
         {
-          "text": "System",
-          "path": "System/Index.md",
-          "items": [
-            {
-              "text": "Roles",
-              "path": "Roles/Index.md"
-            }
-          ]
+          "text": "Dashboard",
+          "path": "Dashboard/Index.md"
+        },
+        {
+          "text": "System Settings",
+          "path": "System/Index.md"
+        },
+        {
+          "text": "Roles & Permissions",
+          "path": "Roles/Index.md"
+        },
+        {
+          "text": "Tenants",
+          "path": "Tenants/Index.md"
+        },
+        {
+          "text": "Editions",
+          "path": "Editions/Index.md"
         },
         {
           "text": "Schedules",
           "path": "Schedules/Index.md"
+        },
+        {
+          "text": "Dashboard Builder",
+          "path": "Administration/DashboardBuilder.md"
         }
       ]
     },
@@ -215,8 +489,12 @@
       "text": "Reference",
       "items": [
         {
-          "text": "Audit Logging",
-          "path": "Audit-Logging.md"
+          "text": "Help Center",
+          "path": "HelpCenter/Index.md"
+        },
+        {
+          "text": "Search",
+          "path": "Search/Index.md"
         }
       ]
     }
