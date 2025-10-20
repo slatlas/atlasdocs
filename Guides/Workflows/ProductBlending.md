@@ -22,127 +22,157 @@ Product blending creates custom chemical formulations by mixing component produc
 ## Workflow Diagram
 
 ```
-Select Blend Formula → Create Batch Record → Add Component Products → Enter Quantities
+Create Blend Group (Formula) → Add Component Products & Percentages → Set Start/End Dates
        ↓
-Calculate Yield → Consume Component Inventory → Generate Finished Product → Request QC Testing
+Create Batch Record → Select Product & Blend Group → Specify Warehouse & Volume
        ↓
-Approve Batch → Update Inventory → Generate Documentation
+Complete Batch → Consume Component Inventory → Add Finished Product → Request QC Testing (optional)
+       ↓
+Print Batch Report → Update Inventory → Generate Documentation
 ```
 
 ## Step-by-Step Procedure
 
-### Creating a Blend Batch
+### Setting Up Blend Formulations (One-Time Setup)
 
-1. **Navigate to Product Blend Batches**
+Before creating batches, you need to define your blend formulations:
+
+1. **Navigate to Product Blends**
+   * Go to main menu → Product → Product Blends
+   * Click the **Groups** tab
+
+![Product Blend Groups](../../images/ProductBlendGroups-Tab.PNG)
+*Product Blend Groups showing active formulations*
+
+2. **Create a Product Blend Group** (Formula)
+   * Click **Create New Product Blend Group**
+   * Enter **Name** (e.g., "FEDD-255 A1")
+   * Set **Start Date** (when formulation becomes active)
+   * Optionally set **End Date** (when formulation expires)
+   * Check **Is Active** to enable for production
+   * Click **Save**
+
+![Create Blend Group](../../images/CreateNewProductBlendGroup-Dialog.PNG)
+*Creating a new product blend group*
+
+3. **Add Component Products to the Group**
+   * Click the **Blends** tab
+   * Click **Create New Product Blend**
+   * Select a **Product** (component) using the Pick button
+   * Choose the **Product Blend Group** you just created
+   * Enter the **Percentage** (e.g., 20 for 20%)
+   * Click **Save**
+   * Repeat for each component until percentages total 100%
+
+![Create Product Blend](../../images/CreateNewProductBlend-Dialog.PNG)
+*Adding a component product to a blend group (e.g., Hot Water at 20%)*
+
+![Product Blends Tab](../../images/ProductBlends-Tab.PNG)
+*Viewing complete blend formulation (e.g., Hot Water 20%, FEDD-255 80%)*
+
+### Creating a Production Batch
+
+Once blend formulations are defined, you can create production batches:
+
+4. **Navigate to Product Blend Batches**
    * Go to main menu → Product → Product Blend Batches
-   * Click "Create New Blend Batch"
+   * OR navigate to a product and click the **Batches** tab
+   * Click **Create New Product Blend Batch**
 
-2. **Enter Batch Information**
-   * **Finished Product:** Select the blended product being made
-   * **Batch Number:** Unique batch identifier (may auto-generate)
-   * **Blend Date:** Date of blending operation
-   * **Warehouse:** Where blending is performed
-   * **Operator:** Person performing the blend
-   * **Target Quantity:** Planned amount to produce
+5. **Enter Batch Information**
+   * **Product:** Select the finished blended product using Pick button
+   * **Product Blend Group:** Choose the formulation to use
+   * **Warehouse:** Select where blending is performed
+   * **Total Volume:** Enter amount being produced (e.g., 500)
+   * **Comment:** Add notes (e.g., "new batch of 500 gallons")
+   * Click **Save**
 
-3. **Select Blend Formula** (if predefined)
-   * Choose from saved formulas for this product
-   * System pre-populates component products and ratios
-   * Or manually enter components if custom blend
+![Create Batch](../../images/CreateNewProductBlendBatch-Dialog.PNG)
+*Creating a new production batch*
 
-### Adding Component Products
+The system automatically generates a **Batch Number** (e.g., PB-20251) for tracking.
 
-4. **Add Component Products**
-   * Click "Add Component"
-   * Select component product from inventory
-   * Enter quantity used
-   * Select unit of measure
-   * Repeat for all components in the blend
+### Managing Production Batches
 
-5. **Verify Component Availability**
-   * System checks warehouse inventory for components
-   * Red indicator if insufficient inventory
+![Product Blend Batches](../../images/ProductBlendBatches-Grid.PNG)
+*Product Blend Batches grid showing pending and completed batches*
+
+6. **Review Batch Status**
+   * **Pending** (Red) - Batch created, production in progress
+   * **Completed** (Green) - Batch finished, inventory updated
+   * Batches display Product Name, Warehouse, Total Volume, Batch Number, and Comments
+
+7. **Monitor Production**
+   * Use the batch grid to track all active production batches
+   * Filter by status, warehouse, product, or date range
+   * Export to Excel for production reports
+
+8. **Verify Component Availability** (Before Production)
+   * Check warehouse inventory for required components
+   * Component quantities are calculated based on:
+     - Total volume to produce
+     - Blend percentages in the formulation
+   * Example: For 500 gallons at 20% Hot Water / 80% FEDD-255:
+     - Hot Water needed: 100 gallons
+     - FEDD-255 needed: 400 gallons
    * May need to receive more inventory before blending
    * See [Inventory Management](InventoryManagement.md)
 
-6. **Record Blend Ratios**
-   * Document ratio or percentage of each component
-   * Example: 70% Product A, 20% Product B, 10% Product C
-   * Helps validate formula and troubleshoot quality issues
+### Completing the Batch
 
-### Recording Blend Production
+9. **Complete Production**
+   * When physical blending is finished, click **Actions** > **Complete**
+   * Batch status changes from "Pending" to "Completed"
+   * System automatically:
+     - **Consumes component inventory** from warehouse (based on blend percentages)
+     - **Adds finished product** to warehouse inventory
+     - **Locks batch record** to maintain traceability
 
-7. **Enter Actual Quantities Consumed**
-   * Record actual amount of each component used
-   * May differ slightly from planned amounts
-   * System tracks variances
+> **Important:** Completing a batch is an inventory transaction. Ensure production is actually finished before completing.
 
-8. **Calculate Batch Yield**
-   * **Theoretical Yield:** Sum of component quantities
-   * **Actual Yield:** Actual amount of finished product produced
-   * **Yield Percentage:** Actual ÷ Theoretical × 100%
-   * Yield loss may occur due to mixing, spillage, sampling
+10. **Print Batch Documentation**
+    * Click **Actions** > **Print**
+    * Generate Product Blend Batch Report
+    * Report includes:
+      - Batch number and date
+      - Product name and total volume
+      - Blend formulation with component percentages
+      - Warehouse location
+      - Comments and notes
+    * Print for production records or quality files
 
-9. **Enter Finished Product Quantity**
-   * Record actual amount of blended product produced
-   * Select unit of measure (gallons, pounds, drums)
-   * This quantity will be added to finished goods inventory
+11. **View Batch History** (Optional)
+    * Click **Actions** > **History**
+    * View complete audit trail:
+      - Who created the batch
+      - When it was completed
+      - Any edits or changes
+      - User and timestamp for all actions
 
-10. **Record Lot/Batch Numbers**
-    * Finished product batch number
-    * Component lot numbers (for traceability)
-    * Container numbers if filling drums/totes
-    * Expiration date if applicable
+### Quality Control (Optional)
 
-### Quality Control
-
-11. **Request Quality Control Testing** (if required)
-    * Click "Create QC Request"
-    * Select tests to perform
-    * Retain sample from batch
+12. **Request Quality Control Testing** (if required)
+    * After batch creation, link to Lab QC Request
+    * Retain sample from batch for testing
     * See [Lab QC Requests](../../Product/LabQCRequests.md)
-    * Batch may need QC approval before release
+    * Some batches may require QC approval before use
 
-12. **Record QC Results** (when received)
-    * Enter test results
+13. **Record QC Results** (when received)
+    * Enter test results in Lab QC system
     * **Pass/Fail:** Does batch meet specifications
     * **Approval:** QC staff approves batch for use
     * Failed batches may need rework or disposal
 
-13. **Document Blend Details**
-    * Blending time and temperature if relevant
-    * Mixing speed and duration
-    * Equipment used
-    * Any issues or deviations from standard process
-
-### Completing the Batch
-
-14. **Review Batch Record**
-    * Verify all components are recorded
-    * Check that quantities are accurate
-    * Confirm QC testing complete (if required)
-    * Review yield calculation
-
-15. **Finalize Batch**
-    * Click "Complete" or "Finalize"
-    * **Component inventory depletes** - system removes component quantities from warehouse inventory
-    * **Finished goods inventory increases** - adds finished product to inventory
-    * Batch status changes to "Completed"
-
-16. **Generate Batch Documentation**
-    * Print batch record for file
-    * Generate certificate of analysis if customer-facing
-    * Export data for regulatory compliance
-    * Attach to quality records
-
 ## Best Practices
 
 ### For Blending Operators
-* **Measure carefully** - Accurate quantities ensure consistent product quality
-* **Follow formula exactly** - Deviations affect performance and can create safety issues
-* **Clean equipment between batches** - Prevent cross-contamination
-* **Label immediately** - Mark containers with batch number, date, product name
-* **Document issues** - Note any problems, deviations, or unusual observations
+* **Set up formulations first** - Create Product Blend Groups with all component percentages before production
+* **Verify percentages total 100%** - System validates blend group totals
+* **Use active formulations** - Ensure blend group is marked "Active" before creating batches
+* **Follow formula exactly** - Component ratios are automatically calculated from blend percentages
+* **Complete batches promptly** - Inventory is not updated until batch is completed
+* **Print batch reports** - Maintain production documentation for each batch
+* **Document issues** - Use Comment field to note any problems or unusual observations
 
 ### For Production Staff
 * **Verify ingredients** - Ensure components are correct products before adding
@@ -162,20 +192,23 @@ Approve Batch → Update Inventory → Generate Documentation
 
 ## Troubleshooting
 
-**Issue:** Insufficient component inventory to blend
-* **Solution:** Check inventory levels before starting. Create purchase order for needed components. May need to adjust batch size to match available inventory. See [Purchase Order Management](PurchaseOrders.md).
+**Issue:** Cannot save blend - percentage exceeds 100%
+* **Solution:** The system validates that total percentages in a blend group cannot exceed 100%. Review all component products in the group and adjust percentages. The total must equal exactly 100%.
 
-**Issue:** Yield percentage is very low
-* **Solution:** Investigate potential causes: spillage, inaccurate measurements, evaporation, equipment retention, sampling. Review blending process. May need equipment calibration or process improvement.
+**Issue:** Blend group not showing when creating batch
+* **Solution:** Ensure the Product Blend Group is marked "Is Active" and the current date falls within the Start/End date range. Only active groups appear in the dropdown.
 
-**Issue:** QC test failed - batch does not meet specifications
-* **Solution:** Review component products - verify correct items used. Check measurements and ratios. Determine if batch can be reworked (add more of deficient component). May need to dispose or downgrade if cannot fix.
+**Issue:** Insufficient component inventory to complete batch
+* **Solution:** Check warehouse inventory before completing batch. System will consume components based on blend percentages and total volume. If insufficient inventory, either: (1) Receive more components via Purchase Order, (2) Transfer inventory from another warehouse, or (3) Reduce the batch Total Volume. See [Purchase Order Management](PurchaseOrders.md) and [Inventory Management](InventoryManagement.md).
 
 **Issue:** Inventory not updating after batch completion
-* **Solution:** Verify batch status is "Completed" not "Draft." Check that warehouse is correctly specified. Ensure component products have inventory tracking enabled. May need IT support if technical issue.
+* **Solution:** Verify batch status changed to "Completed" (green badge). Check that the correct warehouse is specified. Ensure both component and finished products have inventory tracking enabled in product setup. May need IT support if technical issue persists.
 
 **Issue:** Need to reverse a completed batch
-* **Solution:** If batch needs to be undone (wrong formula, failed QC, etc.), may need to create reversing adjustment. Manually adjust inventory for components and finished product. Document reason. May require supervisor approval.
+* **Solution:** Completed batches cannot be directly reversed to maintain audit integrity. If batch needs to be undone (wrong formula, failed QC, etc.): (1) Create manual inventory adjustments to reverse the transaction, (2) Document the reason in the adjustment, (3) May require supervisor or manager approval. Contact your supervisor before reversing completed batches.
+
+**Issue:** Cannot edit completed batch
+* **Solution:** Once a batch is completed, most fields are locked to maintain production integrity and traceability. If changes are needed, you may need to reverse the batch (see above) and create a new one. Only certain administrative users can modify completed batches.
 
 **Where to Get Help:**
 * See [Product Blend Batches documentation](../../Product/ProductBlendBatchs.md)
