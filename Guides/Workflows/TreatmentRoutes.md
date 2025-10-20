@@ -146,7 +146,7 @@ Activate Route → Generate Treatment Schedules → Monitor Performance
 
 **Where to Get Help:**
 * See [Treatment Routes documentation](../../Distribution/TreatmentRoutes.md)
-* See [Treatment Scheduling documentation](../../Distribution/TreatmentScheduling.md)
+* See [Treatment Scheduling documentation](../../Distribution/OrderScheduling.md)
 * Contact operations supervisor for route design questions
 * Contact field personnel for local knowledge and optimization
 
