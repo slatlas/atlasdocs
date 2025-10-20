@@ -17,7 +17,7 @@ The Product Management module handles all aspects of product lifecycle managemen
 * [Warehouses](Warehouses.md) - Warehouse locations and management
 * [Price Schedules](PriceSchedules.md) - Customer pricing configurations
 * [Shipments](Shipments.md) - Inbound and outbound shipments
-* [Product Blend Batches](ProductBlendBatchs.md) - Blended product batch tracking
+* [Blend Batches](ProductBlendBatchs.md) - Blended product batch tracking
 * [Lab QC Requests](LabQCRequests.md) - Quality control testing requests
 
 ## Lookup Tables

@@ -1,15 +1,15 @@
-# Product Blend Batches
+# Blend Batches
 
-Product Blend Batches track the creation of blended products from component materials. This module records batch formulations, production details, and resulting inventory for custom-blended products. Each batch represents a specific production run using a defined blend formulation.
+Blend Batches track the creation of blended products from component materials. This module records batch formulations, production details, and resulting inventory for custom-blended products. Each batch represents a specific production run using a defined blend formulation.
 
 **Permission:** `Pages.ProductBlendBatchs`
 
 ## Overview
 
-The Product Blend Batches page manages the blending and production of custom products. Each batch records the blend formulation used, warehouse location, total volume produced, batch number, and status. Batches can be accessed from the main Product Blend Batches page or from individual product detail pages.
+The Blend Batches page manages the blending and production of custom products. Each batch records the blend formulation used, warehouse location, total volume produced, batch number, and status. Batches can be accessed from the main Blend Batches page or from individual product detail pages.
 
-![Product Blend Batches](../images/ProductBlendBatches-Grid.PNG)
-*Product Blend Batches grid showing status, product, warehouse, volume, batch number, and comments*
+![Blend Batches](../images/ProductBlendBatches-Grid.PNG)
+*Blend Batches grid showing status, product, warehouse, volume, batch number, and comments*
 
 ## Key Features
 
@@ -28,7 +28,7 @@ The Product Blend Batches page manages the blending and production of custom pro
 
 ### Creating a New Batch
 
-1. Click **Create New Product Blend Batch**
+1. Click **Create New Blend Batch**
 2. Select the **Product** (finished blended product)
 3. Choose the **Product Blend Group** (formulation to use)
 4. Select the **Warehouse** where batch is produced
@@ -36,8 +36,8 @@ The Product Blend Batches page manages the blending and production of custom pro
 6. Add optional **Comment** (e.g., "new batch of 500 gallons")
 7. Click **Save**
 
-![Create New Product Blend Batch](../images/CreateNewProductBlendBatch-Dialog.PNG)
-*Dialog for creating a new product blend batch*
+![Create New Blend Batch](../images/CreateNewProductBlendBatch-Dialog.PNG)
+*Dialog for creating a new blend batch*
 
 The system automatically assigns a unique **Batch Number** (e.g., PB-20251).
 

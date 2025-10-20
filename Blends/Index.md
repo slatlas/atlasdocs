@@ -12,7 +12,7 @@ The Product Blends system consists of three main components:
 
 * **[Product Blends](#product-blends)** - Define relationships between products and their blend percentages
 * **[Product Blend Groups](#product-blend-groups)** - Organize blends into named groups with date ranges
-* **[Product Blend Batches](#product-blend-batches)** - Track physical production batches
+* **[Blend Batches](#blend-batches)** - Track physical production batches
 
 The Product Blends page has two main tabs:
 * **Groups Tab** - Manage product blend groups (formulations)
@@ -138,23 +138,23 @@ Use the advanced filters to search by:
 
 <br>
 
-## Product Blend Batches
+## Blend Batches
 
-Product Blend Batches track the physical production of blended products, including volume produced, warehouse location, batch tracking information, and completion status. Each batch record documents a specific production run using a defined blend formulation.
+Blend Batches track the physical production of blended products, including volume produced, warehouse location, batch tracking information, and completion status. Each batch record documents a specific production run using a defined blend formulation.
 
-### Accessing Product Blend Batches
+### Accessing Blend Batches
 
-Navigate to **Production > Product Blend Batches** to view and manage production batches. You can also access batches from a specific product's detail page by clicking the **Batches** tab.
+Navigate to **Production > Blend Batches** to view and manage production batches. You can also access batches from a specific product's detail page by clicking the **Batches** tab.
 
-![Product Blend Batches Grid](../images/ProductBlendBatches-Grid.PNG)
-*Product Blend Batches showing status, warehouse, volume, batch number, and comments*
+![Blend Batches Grid](../images/ProductBlendBatches-Grid.PNG)
+*Blend Batches showing status, warehouse, volume, batch number, and comments*
 
 ![Product Detail - Batches Tab](../images/ProductDetail-BatchesTab.PNG)
 *Viewing batches from a product detail page*
 
-### Creating a New Product Blend Batch
+### Creating a New Blend Batch
 
-1. Click the **Create New Product Blend Batch** button
+1. Click the **Create New Blend Batch** button
 2. Click **Pick** to select a **Product** (the final blended product being produced)
 3. Choose a **Product Blend Group** from the dropdown (the formulation to use for this batch)
 4. Select a **Warehouse** where the batch will be produced and stored
@@ -162,12 +162,12 @@ Navigate to **Production > Product Blend Batches** to view and manage production
 6. Optionally add a **Comment** describing the batch (e.g., "new batch of 500 gallons")
 7. Click **Save**
 
-![Create New Product Blend Batch](../images/CreateNewProductBlendBatch-Dialog.PNG)
-*Create new product blend batch dialog with product, blend group, warehouse, volume, and comment fields*
+![Create New Blend Batch](../images/CreateNewProductBlendBatch-Dialog.PNG)
+*Create new blend batch dialog with product, blend group, warehouse, volume, and comment fields*
 
 The system will automatically assign a unique **Batch Number** (e.g., PB-20251) for tracking and traceability.
 
-#### Product Blend Batch Fields
+#### Blend Batch Fields
 
 * **Product** (Required) - The final blended product being produced. Use the "Pick" button to select from available products.
 * **Product Blend Group** (Required) - The blend formulation to use for this batch.
@@ -177,12 +177,12 @@ The system will automatically assign a unique **Batch Number** (e.g., PB-20251) 
 * **Products** - Automatically populated based on the selected blend group.
 * **Comment** (Optional) - Additional notes or information about this batch (max 500 characters).
 
-### Managing Product Blend Batches
+### Managing Blend Batches
 
 Each batch has an **Actions** menu providing the following options:
 
 * **View** - View complete batch details including all component products and their quantities
-* **Print** - Generate and print the Product Blend Batch Report with all batch details and blend composition
+* **Print** - Generate and print the Blend Batch Report with all batch details and blend composition
 * **Edit** - Modify batch information (available for pending batches)
 * **Complete** - Mark the batch as completed and finalize the inventory transaction
 * **Delete** - Remove the batch record (with confirmation)
@@ -206,7 +206,7 @@ Once a batch production is finished:
 
 > **Note:** Once a batch is completed, some fields become locked to maintain production integrity and traceability.
 
-### Editing a Product Blend Batch
+### Editing a Blend Batch
 
 1. Click the **Actions** button next to the batch
 2. Select **Edit**
@@ -215,7 +215,7 @@ Once a batch production is finished:
 
 > **Note:** Editing capabilities may be restricted after a batch is completed.
 
-### Deleting a Product Blend Batch
+### Deleting a Blend Batch
 
 1. Click the **Actions** button next to the batch
 2. Select **Delete**
@@ -258,7 +258,7 @@ Click the **Export to Excel** button to download all product blend batch data in
 
 1. Create a Product Blend Group with the desired formulation
 2. Add all component products with their percentages to the group
-3. When ready to produce, create a Product Blend Batch selecting the group
+3. When ready to produce, create a Blend Batch selecting the group
 4. Record the total volume produced
 5. Complete the batch when finished
 6. Print batch reports for quality control and record keeping

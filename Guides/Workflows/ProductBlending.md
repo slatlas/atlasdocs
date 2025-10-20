@@ -74,10 +74,10 @@ Before creating batches, you need to define your blend formulations:
 
 Once blend formulations are defined, you can create production batches:
 
-4. **Navigate to Product Blend Batches**
-   * Go to main menu → Product → Product Blend Batches
+4. **Navigate to Blend Batches**
+   * Go to main menu → Product → Blend Batches
    * OR navigate to a product and click the **Batches** tab
-   * Click **Create New Product Blend Batch**
+   * Click **Create New Blend Batch**
 
 5. **Enter Batch Information**
    * **Product:** Select the finished blended product using Pick button
@@ -94,8 +94,8 @@ The system automatically generates a **Batch Number** (e.g., PB-20251) for track
 
 ### Managing Production Batches
 
-![Product Blend Batches](../../images/ProductBlendBatches-Grid.PNG)
-*Product Blend Batches grid showing pending and completed batches*
+![Blend Batches](../../images/ProductBlendBatches-Grid.PNG)
+*Blend Batches grid showing pending and completed batches*
 
 6. **Review Batch Status**
    * **Pending** (Red) - Batch created, production in progress
@@ -132,7 +132,7 @@ The system automatically generates a **Batch Number** (e.g., PB-20251) for track
 
 10. **Print Batch Documentation**
     * Click **Actions** > **Print**
-    * Generate Product Blend Batch Report
+    * Generate Blend Batch Report
     * Report includes:
       - Batch number and date
       - Product name and total volume
@@ -211,7 +211,7 @@ The system automatically generates a **Batch Number** (e.g., PB-20251) for track
 * **Solution:** Once a batch is completed, most fields are locked to maintain production integrity and traceability. If changes are needed, you may need to reverse the batch (see above) and create a new one. Only certain administrative users can modify completed batches.
 
 **Where to Get Help:**
-* See [Product Blend Batches documentation](../../Product/ProductBlendBatchs.md)
+* See [Blend Batches documentation](../../Product/ProductBlendBatchs.md)
 * See [Lab QC Requests documentation](../../Product/LabQCRequests.md)
 * See also [Blends Documentation](../../Blends/Index.md)
 * Contact production supervisor for formula or process questions

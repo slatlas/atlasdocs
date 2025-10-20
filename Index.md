@@ -69,7 +69,7 @@ Quick-reference workflow guides for common business processes in Atlas:
 * [Warehouses](Product/Warehouses.md) - Warehouse locations and management
 * [Price Schedules](Product/PriceSchedules.md) - Customer-specific pricing
 * [Shipments](Product/Shipments.md) - Inbound and outbound shipments
-* [Product Blend Batches](Product/ProductBlendBatchs.md) - Blended product tracking
+* [Blend Batches](Product/ProductBlendBatchs.md) - Blended product tracking
 * [Lab QC Requests](Product/LabQCRequests.md) - Quality control testing
 * [Product Lookups](Product/Lookups.md) - Reference data and configuration
 
