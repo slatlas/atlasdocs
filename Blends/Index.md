@@ -34,6 +34,11 @@ Navigate to **Production > Product Blends** to view all product blends in the sy
 ![Product Blends Tab](../images/ProductBlends-Tab.PNG)
 *Product Blends tab showing component products and percentages (e.g., Hot Water 20%, FEDD-255 80%)*
 
+You can also view blends from a specific product's detail page by navigating to the product and clicking the **Blends** tab.
+
+![Product Detail - Blends Tab](../images/ProductDetail-BlendsTab.PNG)
+*Viewing blends from a product detail page*
+
 ### Creating a New Product Blend
 
 1. Click the **Create New Product Blend** button
