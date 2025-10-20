@@ -2,8 +2,6 @@
 
 The Product Blends system allows you to create, manage, and track blended chemical products. This feature enables you to define product formulations, organize them into groups, and manage physical batches of blended products.
 
-**Permission:** `Pages.ProductBlends`
-
 <br>
 
 ## Overview
@@ -273,16 +271,48 @@ Click the **Export to Excel** button to download all product blend batch data in
 
 ## Permissions
 
-Access to Product Blends features is controlled by the following permissions:
+Access to Product Blends features requires the following permissions:
 
-* `Pages.ProductBlends.Create` - Create new product blends
-* `Pages.ProductBlends.Edit` - Edit existing product blends  
-* `Pages.ProductBlends.Delete` - Delete product blends
-* `Pages.ProductBlendGroups.Create` - Create new blend groups
-* `Pages.ProductBlendGroups.Edit` - Edit existing blend groups
-* `Pages.ProductBlendGroups.Delete` - Delete blend groups
-* `Pages.ProductBlendBatchs.Create` - Create new production batches
-* `Pages.ProductBlendBatchs.Edit` - Edit existing batches
-* `Pages.ProductBlendBatchs.Delete` - Delete batches
+### Product Blend Permissions
+
+| Display Name | Description |
+|--------------|-------------|
+| Product Blends | View product blend records |
+| Create Product Blends | Create new product blend component entries |
+| Edit Product Blends | Modify blend component percentages |
+| Delete Product Blends | Remove blend components |
+
+### Product Blend Group Permissions
+
+| Display Name | Description |
+|--------------|-------------|
+| Product Blend Groups | View blend formulations/groups |
+| Create Product Blend Groups | Create new blend formulations |
+| Edit Product Blend Groups | Modify blend group details |
+| Delete Product Blend Groups | Remove blend formulations |
+
+### Blend Batch Permissions
+
+| Display Name | Description |
+|--------------|-------------|
+| Blend Batches | View production batch records |
+| Create Blend Batches | Create new production batches |
+| Edit Blend Batches | Modify batch details |
+| Delete Blend Batches | Remove batch records |
+
+**Related Permissions:**
+
+| Display Name | Description |
+|--------------|-------------|
+| Products | View products (required for all blend operations) |
+| Warehouses | View warehouse locations (required for batches) |
+| Product Inventory | View inventory (automatically updated by batches) |
 
 Contact your system administrator if you need access to any of these features.
+
+## Related Documentation
+
+* [Product Management Overview](../Product/Index.md) - Complete product management module
+* [Blend Batches](../Product/ProductBlendBatchs.md) - Detailed blend batch documentation
+* [Product Inventory](../Product/ProductInventory.md) - Inventory tracking and management
+* [Warehouses](../Product/Warehouses.md) - Warehouse locations and management

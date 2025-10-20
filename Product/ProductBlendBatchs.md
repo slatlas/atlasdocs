@@ -2,8 +2,6 @@
 
 Blend Batches track the creation of blended products from component materials. This module records batch formulations, production details, and resulting inventory for custom-blended products. Each batch represents a specific production run using a defined blend formulation.
 
-**Permission:** `Pages.ProductBlendBatchs`
-
 ## Overview
 
 The Blend Batches page manages the blending and production of custom products. Each batch records the blend formulation used, warehouse location, total volume produced, batch number, and status. Batches can be accessed from the main Blend Batches page or from individual product detail pages.
@@ -75,6 +73,25 @@ Navigate to a product's detail page and click the **Batches** tab to view all ba
 
 ![Product Detail - Batches Tab](../images/ProductDetail-BatchesTab.PNG)
 *Viewing batches from a product detail page*
+
+## Permissions
+
+Access to Blend Batches features requires the following permissions:
+
+| Display Name | Description |
+|--------------|-------------|
+| Blend Batches | View blend batch records |
+| Create Blend Batches | Create new blend batches |
+| Edit Blend Batches | Modify existing blend batches |
+| Delete Blend Batches | Remove blend batch records |
+
+**Related Permissions:**
+
+| Display Name | Description |
+|--------------|-------------|
+| Product Blend Groups | View blend formulations (required to create batches) |
+| Products | View products (required to select products for batches) |
+| Warehouses | View warehouses (required to specify batch location) |
 
 ## Related Documentation
 

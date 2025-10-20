@@ -2,8 +2,6 @@
 
 Product Inventory provides real-time visibility into product quantities across all warehouses, vehicles, and storage locations. This module tracks inventory levels, movements, and helps prevent stockouts with alerts and dashboards.
 
-**Permission:** `Pages.ProductInventory`
-
 ## Overview
 
 The Product Inventory Dashboard provides comprehensive inventory visibility with multiple tabs for different views:
@@ -94,4 +92,36 @@ Common inventory transactions include:
 * Visual inventory level indicators
 * Generate and export inventory reports
 * Filter and search across all inventory records
+
+## Permissions
+
+Access to Product Inventory features requires the following permissions:
+
+| Display Name | Description |
+|--------------|-------------|
+| Product Inventory | View product inventory dashboard and levels |
+| Create Product Inventory | Create inventory records |
+| Edit Product Inventory | Modify inventory records |
+| Delete Product Inventory | Remove inventory records |
+| Product Inventory Transactions | View inventory transaction history |
+| Create Product Inventory Transactions | Create manual inventory adjustments |
+| Edit Product Inventory Transactions | Modify inventory transactions |
+| Delete Product Inventory Transactions | Remove inventory transactions |
+
+**Related Permissions:**
+
+| Display Name | Description |
+|--------------|-------------|
+| Products | View products (required to manage inventory) |
+| Warehouses | View warehouse locations |
+| Shipments | View and receive shipments (updates inventory) |
+| Blend Batches | View blend batches (updates inventory) |
+| Delivery Orders | View delivery orders (consumes inventory) |
+
+## Related Documentation
+
+* [Products](Products.md) - Product catalog and specifications
+* [Shipments](Shipments.md) - Inbound and outbound shipment tracking
+* [Blend Batches](ProductBlendBatchs.md) - Blended product batch tracking
+* [Warehouses](Warehouses.md) - Warehouse locations and management
 

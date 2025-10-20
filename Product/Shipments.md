@@ -2,8 +2,6 @@
 
 Shipments track the receipt of products from vendors and the movement of inventory between warehouses. This module ensures accurate inventory tracking and provides visibility into inbound and outbound logistics.
 
-**Permission:** `Pages.Shipments`
-
 ## Overview
 
 The Shipments page manages all inbound receipts and outbound shipments of products. Shipments can be linked to purchase orders for receiving or used to document transfers and outbound movements. Shipments are also accessible from the Product Inventory Dashboard via the Shipments tab.
@@ -90,6 +88,32 @@ For inbound shipments, the receiving process updates inventory:
 * Generate receiving documentation and reports
 * Filter and search shipments by status, warehouse, date, or order
 * Export shipment data to Excel
+
+## Permissions
+
+Access to Shipments features requires the following permissions:
+
+| Display Name | Description |
+|--------------|-------------|
+| Shipments | View shipment records |
+| Create Shipments | Create new inbound/outbound shipments |
+| Edit Shipments | Modify shipment details |
+| Delete Shipments | Remove shipment records |
+| Shipment Items | View shipment line items |
+| Create Shipment Items | Add products to shipments |
+| Edit Shipment Items | Modify shipment line items |
+| Delete Shipment Items | Remove products from shipments |
+
+**Related Permissions:**
+
+| Display Name | Description |
+|--------------|-------------|
+| Purchase Orders | View/link purchase orders to inbound shipments |
+| Products | View products (required for shipment items) |
+| Warehouses | View warehouse locations |
+| Product Inventory | View inventory (automatically updated on shipment receipt) |
+| Shipment Types | View shipment types |
+| Shipment Containers | View container types |
 
 ## Related Documentation
 
