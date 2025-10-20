@@ -3,6 +3,58 @@
   "WorkspaceRootPath": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Template.md||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Template.md||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\DeliveryOrders.md||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mobile\\DeliveryOrders.md||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\Dashboard.md||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mobile\\Dashboard.md||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Schedules\\Index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Schedules\\Index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\User-Dashboard-Edit.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tutorials\\User-Dashboard-Edit.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\tutorials.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tutorials\\tutorials.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\quickstart.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tutorials\\quickstart.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\Index.md||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tutorials\\Index.md||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\Getting-Started.md||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tutorials\\Getting-Started.md||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\Navigation\\Index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tutorials\\Navigation\\Index.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Index.md||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Index.md||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\Treating.md||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mobile\\Treating.md||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
@@ -12,14 +64,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ron-BD Tech\\source\\repos\\atlasdocs\\Web\\purchaseOrders\\create.md||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\DeliveryOrders.md||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mobile\\DeliveryOrders.md||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\Dashboard.md||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mobile\\Dashboard.md||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\Sandbox.md||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -38,28 +82,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:images\\MobileSettings.PNG||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\Getting-Started.md||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tutorials\\Getting-Started.md||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Index.md||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Index.md||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Web\\navigation.md||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Web\\navigation.md||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Template.md||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Template.md||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\System\\Index.md||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:System\\Index.md||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\Index.md||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tutorials\\Index.md||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Web\\dashboard\\customizing.md||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -254,39 +282,106 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_config.yml",
+              "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\_config.yml",
+              "RelativeDocumentMoniker": "_config.yml",
+              "ToolTip": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\_config.yml",
+              "RelativeToolTip": "_config.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-10-20T15:45:55.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.md",
+              "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Schedules\\Index.md",
+              "RelativeDocumentMoniker": "Schedules\\Index.md",
+              "ToolTip": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Schedules\\Index.md",
+              "RelativeToolTip": "Schedules\\Index.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-20T15:45:14.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User-Dashboard-Edit.md",
+              "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\User-Dashboard-Edit.md",
+              "RelativeDocumentMoniker": "Tutorials\\User-Dashboard-Edit.md",
+              "ToolTip": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\User-Dashboard-Edit.md",
+              "RelativeToolTip": "Tutorials\\User-Dashboard-Edit.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-20T15:45:10.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "tutorials.md",
+              "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\tutorials.md",
+              "RelativeDocumentMoniker": "Tutorials\\tutorials.md",
+              "ToolTip": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\tutorials.md",
+              "RelativeToolTip": "Tutorials\\tutorials.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-20T15:45:08.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "quickstart.md",
+              "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\quickstart.md",
+              "RelativeDocumentMoniker": "Tutorials\\quickstart.md",
+              "ToolTip": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\quickstart.md",
+              "RelativeToolTip": "Tutorials\\quickstart.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-20T15:45:03.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.md",
+              "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\Navigation\\Index.md",
+              "RelativeDocumentMoniker": "Tutorials\\Navigation\\Index.md",
+              "ToolTip": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\Navigation\\Index.md",
+              "RelativeToolTip": "Tutorials\\Navigation\\Index.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-20T15:44:51.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-20T15:44:26.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Treating.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\Treating.md",
               "RelativeDocumentMoniker": "Mobile\\Treating.md",
               "ToolTip": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\Treating.md",
               "RelativeToolTip": "Mobile\\Treating.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-10-20T15:41:10.551Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Intro.md",
-              "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\Intro.md",
-              "RelativeDocumentMoniker": "Mobile\\Intro.md",
-              "ToolTip": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\Intro.md",
-              "RelativeToolTip": "Mobile\\Intro.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-10-20T15:41:10.567Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DeliveryOrders.md",
-              "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\DeliveryOrders.md",
-              "RelativeDocumentMoniker": "Mobile\\DeliveryOrders.md",
-              "ToolTip": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\DeliveryOrders.md",
-              "RelativeToolTip": "Mobile\\DeliveryOrders.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-10-20T15:41:10.568Z"
             },
             {
               "$type": "Document",
@@ -296,36 +391,14 @@
               "RelativeDocumentMoniker": "Mobile\\Dashboard.md",
               "ToolTip": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\Dashboard.md",
               "RelativeToolTip": "Mobile\\Dashboard.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-10-20T15:41:10.569Z"
+              "WhenOpened": "2025-10-20T15:41:10.569Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MobileSettings.PNG",
-              "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\images\\MobileSettings.PNG",
-              "RelativeDocumentMoniker": "images\\MobileSettings.PNG",
-              "ToolTip": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\images\\MobileSettings.PNG",
-              "RelativeToolTip": "images\\MobileSettings.PNG",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
-              "WhenOpened": "2025-10-20T15:41:10.572Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Sandbox.md",
-              "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\Sandbox.md",
-              "RelativeDocumentMoniker": "Mobile\\Sandbox.md",
-              "ToolTip": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\Sandbox.md",
-              "RelativeToolTip": "Mobile\\Sandbox.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-10-20T15:41:10.574Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "Login.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\Login.md",
               "RelativeDocumentMoniker": "Mobile\\Login.md",
@@ -337,7 +410,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "DeliveryOrders.md",
+              "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\DeliveryOrders.md",
+              "RelativeDocumentMoniker": "Mobile\\DeliveryOrders.md",
+              "ToolTip": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\DeliveryOrders.md",
+              "RelativeToolTip": "Mobile\\DeliveryOrders.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-20T15:41:10.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Template.md",
+              "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Template.md",
+              "RelativeDocumentMoniker": "Template.md",
+              "ToolTip": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Template.md",
+              "RelativeToolTip": "Template.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-20T15:41:10.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Sandbox.md",
+              "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\Sandbox.md",
+              "RelativeDocumentMoniker": "Mobile\\Sandbox.md",
+              "ToolTip": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\Sandbox.md",
+              "RelativeToolTip": "Mobile\\Sandbox.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-20T15:41:10.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MobileSettings.PNG",
+              "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\images\\MobileSettings.PNG",
+              "RelativeDocumentMoniker": "images\\MobileSettings.PNG",
+              "ToolTip": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\images\\MobileSettings.PNG",
+              "RelativeToolTip": "images\\MobileSettings.PNG",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-10-20T15:41:10.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Settings.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\Settings.md",
               "RelativeDocumentMoniker": "Mobile\\Settings.md",
@@ -349,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 15,
               "Title": "create.md",
               "DocumentMoniker": "C:\\Users\\Ron-BD Tech\\source\\repos\\atlasdocs\\Web\\purchaseOrders\\create.md",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Ron-BD Tech\\source\\repos\\atlasdocs\\Web\\purchaseOrders\\create.md",
@@ -361,31 +483,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Getting-Started.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\Getting-Started.md",
               "RelativeDocumentMoniker": "Tutorials\\Getting-Started.md",
               "ToolTip": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\Getting-Started.md",
               "RelativeToolTip": "Tutorials\\Getting-Started.md",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAABcAAAALAAAA",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABcAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-10-20T15:41:10.579Z"
+              "WhenOpened": "2025-10-20T15:41:10.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.md",
+              "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\Index.md",
+              "RelativeDocumentMoniker": "Tutorials\\Index.md",
+              "ToolTip": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\Index.md",
+              "RelativeToolTip": "Tutorials\\Index.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-20T15:41:10.584Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Template.md",
-              "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Template.md",
-              "RelativeDocumentMoniker": "Template.md",
-              "ToolTip": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Template.md",
-              "RelativeToolTip": "Template.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Title": "Index.md",
+              "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Index.md",
+              "RelativeDocumentMoniker": "Index.md",
+              "ToolTip": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Index.md",
+              "RelativeToolTip": "Index.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-10-20T15:41:10.581Z"
+              "WhenOpened": "2025-10-20T15:41:10.584Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
+              "Title": "Intro.md",
+              "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\Intro.md",
+              "RelativeDocumentMoniker": "Mobile\\Intro.md",
+              "ToolTip": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\Intro.md",
+              "RelativeToolTip": "Mobile\\Intro.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-20T15:41:10.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Index.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\System\\Index.md",
               "RelativeDocumentMoniker": "System\\Index.md",
@@ -397,31 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.md",
-              "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\Index.md",
-              "RelativeDocumentMoniker": "Tutorials\\Index.md",
-              "ToolTip": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\Index.md",
-              "RelativeToolTip": "Tutorials\\Index.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-10-20T15:41:10.584Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.md",
-              "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Index.md",
-              "RelativeDocumentMoniker": "Index.md",
-              "ToolTip": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Index.md",
-              "RelativeToolTip": "Index.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-10-20T15:41:10.584Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 20,
               "Title": "navigation.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Web\\navigation.md",
               "RelativeDocumentMoniker": "Web\\navigation.md",
@@ -433,7 +558,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "customizing.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Web\\dashboard\\customizing.md",
               "RelativeDocumentMoniker": "Web\\dashboard\\customizing.md",
