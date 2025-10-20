@@ -105,7 +105,7 @@ Ready for Billing → Invoice Generation
 ## Best Practices
 
 ### For Dispatchers
-* **Batch create delivery orders** at the start of each week based on active sales orders and treatment schedules
+* **Batch create delivery orders** at the start of each week based on active sales orders and treatment schedules - use the [Order Scheduler Dashboard](../../Distribution/OrderScheduling.md) to view upcoming treatments and plan deliveries
 * **Use "Schedule Now"** for urgent or same-day treatments - bypasses scheduling and immediately dispatches to mobile devices
 * **Group by geography** when assigning to routes to minimize drive time
 * **Confirm vehicle inventory** before dispatching - ensure products are loaded on the assigned vehicle
