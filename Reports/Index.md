@@ -61,12 +61,12 @@ Access to Reports features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Treatments | Access treatment data in reports |
-| Delivery Orders | Access delivery data in reports |
-| Invoices | Access billing data in reports |
-| Locations | Access location data in reports |
-| Products | Access product data in reports |
-| Lab Orders | Access lab data in reports |
+| [Treatments](../Distribution/Treatments.md) | Access treatment data in reports |
+| [Delivery Orders](../Distribution/DeliveryOrders.md) | Access delivery data in reports |
+| [Invoices](../Billing/Invoices.md) | Access billing data in reports |
+| [Locations](../AreaManagement/Locations.md) | Access location data in reports |
+| [Products](../Product/Products.md) | Access product data in reports |
+| [Lab Orders](../LIMS/Create-Lab-Order.md) | Access lab data in reports |
 
 ## Related Documentation
 

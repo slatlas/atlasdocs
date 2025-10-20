@@ -30,7 +30,7 @@ Access to Vendors features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Purchase Orders | Create purchase orders for vendors |
+| [Purchase Orders](../Product/PurchaseOrders.md) | Create purchase orders for vendors |
 
 ## Related Documentation
 

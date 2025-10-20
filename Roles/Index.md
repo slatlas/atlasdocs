@@ -37,8 +37,8 @@ Access to Role Management features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Users | View/manage users (assign roles to users) |
-| Organization Units | Manage roles within organization units |
+| [Users](../System/Users.md) | View/manage users (assign roles to users) |
+| [Organization Units](../System/OrganizationUnits.md) | Manage roles within organization units |
 
 ## Related Documentation
 

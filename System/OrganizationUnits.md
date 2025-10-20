@@ -41,8 +41,8 @@ Access to Organization Units features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Users | View/manage users (assigned to org units) |
-| Roles | View/manage roles (org unit roles) |
+| [Users](Users.md) | View/manage users (assigned to org units) |
+| [Roles](../Roles/Index.md) | View/manage roles (org unit roles) |
 
 ## Related Documentation
 

@@ -34,11 +34,11 @@ Access to Treatments features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Locations | View locations (where treatments occur) |
-| Products | View products (used in treatments) |
-| Delivery Orders | View delivery orders (linked to treatments) |
-| Treatment Routes | View routes (treatment organization) |
-| Invoices | View invoices (treatments generate billing) |
+| [Locations](../AreaManagement/Locations.md) | View locations (where treatments occur) |
+| [Products](../Product/Products.md) | View products (used in treatments) |
+| [Delivery Orders](DeliveryOrders.md) | View delivery orders (linked to treatments) |
+| [Treatment Routes](TreatmentRoutes.md) | View routes (treatment organization) |
+| [Invoices](../Billing/Invoices.md) | View invoices (treatments generate billing) |
 
 ## Related Documentation
 

@@ -48,10 +48,10 @@ Access to Calendar features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Treatments | View treatments on calendar |
-| Delivery Orders | View delivery orders on calendar |
-| Lab Orders | View lab samples on calendar |
-| Treatment Routes | View route schedules |
+| [Treatments](../Distribution/Treatments.md) | View treatments on calendar |
+| [Delivery Orders](../Distribution/DeliveryOrders.md) | View delivery orders on calendar |
+| [Lab Orders](../LIMS/Create-Lab-Order.md) | View lab samples on calendar |
+| [Treatment Routes](../Distribution/TreatmentRoutes.md) | View route schedules |
 
 ## Related Documentation
 

@@ -112,11 +112,11 @@ Access to Product Inventory features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Products | View products (required to manage inventory) |
-| Warehouses | View warehouse locations |
-| Shipments | View and receive shipments (updates inventory) |
-| Blend Batches | View blend batches (updates inventory) |
-| Delivery Orders | View delivery orders (consumes inventory) |
+| [Products](Products.md) | View products (required to manage inventory) |
+| [Warehouses](Warehouses.md) | View warehouse locations |
+| [Shipments](Shipments.md) | View and receive shipments (updates inventory) |
+| [Blend Batches](ProductBlendBatchs.md) | View blend batches (updates inventory) |
+| [Delivery Orders](../Distribution/DeliveryOrders.md) | View delivery orders (consumes inventory) |
 
 ## Related Documentation
 

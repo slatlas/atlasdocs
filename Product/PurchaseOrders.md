@@ -38,11 +38,11 @@ Access to Purchase Orders features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Vendors | View vendors (purchase order suppliers) |
-| Products | View products (ordered items) |
-| Warehouses | View warehouses (receiving locations) |
-| Shipments | Create/view shipments (receiving process) |
-| Product Inventory | View inventory (updated on receipt) |
+| [Vendors](../AreaManagement/Vendors.md) | View vendors (purchase order suppliers) |
+| [Products](Products.md) | View products (ordered items) |
+| [Warehouses](Warehouses.md) | View warehouses (receiving locations) |
+| [Shipments](Shipments.md) | Create/view shipments (receiving process) |
+| [Product Inventory](ProductInventory.md) | View inventory (updated on receipt) |
 
 ## Related Documentation
 

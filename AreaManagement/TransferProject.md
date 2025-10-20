@@ -26,10 +26,10 @@ Access to Transfer Project features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Customer Projects | View customer projects (to be transferred) |
-| Customers | View customers (source and destination) |
-| Locations | View locations (transferred with project) |
-| Audit Logs | View transfer audit trail |
+| [Customer Projects](CustomerProjects.md) | View customer projects (to be transferred) |
+| [Customers](Customers.md) | View customers (source and destination) |
+| [Locations](Locations.md) | View locations (transferred with project) |
+| [Audit Logs](../System/AuditLogs.md) | View transfer audit trail |
 
 ## Related Documentation
 

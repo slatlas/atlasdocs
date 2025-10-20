@@ -50,11 +50,11 @@ Access to Invoices features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Customers | View customers (invoice recipients) |
-| Delivery Orders | View completed deliveries (billing source) |
-| Treatments | View completed treatments (billing source) |
-| Sales Orders | View orders (billing reference) |
-| Price Schedules | View pricing (invoice rates) |
+| [Customers](../AreaManagement/Customers.md) | View customers (invoice recipients) |
+| [Delivery Orders](../Distribution/DeliveryOrders.md) | View completed deliveries (billing source) |
+| [Treatments](../Distribution/Treatments.md) | View completed treatments (billing source) |
+| [Sales Orders](../Distribution/SalesOrders.md) | View orders (billing reference) |
+| [Price Schedules](../Product/PriceSchedules.md) | View pricing (invoice rates) |
 
 ## Related Documentation
 

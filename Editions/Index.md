@@ -45,7 +45,7 @@ Access to Editions features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Tenants | Assign editions to tenants |
+| [Tenants](../Tenants/Index.md) | Assign editions to tenants |
 
 ## Related Documentation
 

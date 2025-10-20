@@ -36,9 +36,9 @@ Access to Users features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Roles | View/manage roles (assign to users) |
-| Personnel | View/link personnel records to users |
-| Organization Units | Assign users to organizational units |
+| [Roles](../Roles/Index.md) | View/manage roles (assign to users) |
+| [Personnel](../AreaManagement/Personnel.md) | View/link personnel records to users |
+| [Organization Units](OrganizationUnits.md) | Assign users to organizational units |
 
 ## Related Documentation
 

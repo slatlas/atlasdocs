@@ -50,7 +50,7 @@ Access to Integrations features requires the following permissions:
 | Display Name | Description |
 |--------------|-------------|
 | QuickBooks Authentication Sessions | Manage QuickBooks connections |
-| Audit Logs | View integration activity logs |
+| [Audit Logs](AuditLogs.md) | View integration activity logs |
 
 ## Related Documentation
 

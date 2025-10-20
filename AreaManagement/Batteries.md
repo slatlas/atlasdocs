@@ -30,9 +30,9 @@ Access to Batteries features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Locations | View locations within batteries |
-| Leases | View leases (battery parent) |
-| Areas | View areas (organizational region) |
+| [Locations](Locations.md) | View locations within batteries |
+| [Leases](Leases.md) | View leases (battery parent) |
+| [Areas](Areas.md) | View areas (organizational region) |
 
 ## Related Documentation
 

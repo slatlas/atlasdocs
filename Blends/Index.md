@@ -304,9 +304,9 @@ Access to Product Blends features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Products | View products (required for all blend operations) |
-| Warehouses | View warehouse locations (required for batches) |
-| Product Inventory | View inventory (automatically updated by batches) |
+| [Products](../Product/Products.md) | View products (required for all blend operations) |
+| [Warehouses](../Product/Warehouses.md) | View warehouse locations (required for batches) |
+| [Product Inventory](../Product/ProductInventory.md) | View inventory (automatically updated by batches) |
 
 Contact your system administrator if you need access to any of these features.
 

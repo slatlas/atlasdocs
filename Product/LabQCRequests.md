@@ -33,10 +33,10 @@ Access to Lab QC Requests features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Blend Batches | View blend batches (QC testing subjects) |
-| Products | View products (tested items) |
-| Shipments | View shipments (incoming QC testing) |
-| Product Inventory | Manage inventory (quarantine failed products) |
+| [Blend Batches](ProductBlendBatchs.md) | View blend batches (QC testing subjects) |
+| [Products](Products.md) | View products (tested items) |
+| [Shipments](Shipments.md) | View shipments (incoming QC testing) |
+| [Product Inventory](ProductInventory.md) | Manage inventory (quarantine failed products) |
 
 ## Related Documentation
 

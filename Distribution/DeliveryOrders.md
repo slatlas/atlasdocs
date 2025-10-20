@@ -39,12 +39,12 @@ Access to Delivery Orders features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Sales Orders | View sales orders (source for delivery orders) |
-| Locations | View locations (delivery destinations) |
-| Treatment Routes | View routes (for route-based deliveries) |
-| Products | View products (delivered items) |
-| Product Inventory | View inventory (consumed on delivery) |
-| Order Tracker | Track delivery order status in real-time |
+| [Sales Orders](SalesOrders.md) | View sales orders (source for delivery orders) |
+| [Locations](../AreaManagement/Locations.md) | View locations (delivery destinations) |
+| [Treatment Routes](TreatmentRoutes.md) | View routes (for route-based deliveries) |
+| [Products](../Product/Products.md) | View products (delivered items) |
+| [Product Inventory](../Product/ProductInventory.md) | View inventory (consumed on delivery) |
+| [Order Tracker](OrderTracker.md) | Track delivery order status in real-time |
 
 ## Related Documentation
 

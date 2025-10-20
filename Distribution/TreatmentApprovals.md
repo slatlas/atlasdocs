@@ -32,9 +32,9 @@ Access to Treatment Approvals features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Treatment Routes | View routes (routes requiring approval) |
-| Locations | View locations (route stops) |
-| Products | View products (route product assignments) |
+| [Treatment Routes](TreatmentRoutes.md) | View routes (routes requiring approval) |
+| [Locations](../AreaManagement/Locations.md) | View locations (route stops) |
+| [Products](../Product/Products.md) | View products (route product assignments) |
 
 ## Related Documentation
 

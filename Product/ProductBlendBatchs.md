@@ -89,9 +89,9 @@ Access to Blend Batches features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Product Blend Groups | View blend formulations (required to create batches) |
-| Products | View products (required to select products for batches) |
-| Warehouses | View warehouses (required to specify batch location) |
+| [Product Blend Groups](../Blends/Index.md) | View blend formulations (required to create batches) |
+| [Products](Products.md) | View products (required to select products for batches) |
+| [Warehouses](Warehouses.md) | View warehouses (required to specify batch location) |
 
 ## Related Documentation
 

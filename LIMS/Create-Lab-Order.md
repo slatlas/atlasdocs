@@ -69,10 +69,10 @@ Access to Lab Orders features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Locations | View locations (sample sources) |
-| Customers | View customers (sample requesters) |
-| Personnel | View personnel (requesters and lab techs) |
-| Products | View products (treated products) |
+| [Locations](../AreaManagement/Locations.md) | View locations (sample sources) |
+| [Customers](../AreaManagement/Customers.md) | View customers (sample requesters) |
+| [Personnel](../AreaManagement/Personnel.md) | View personnel (requesters and lab techs) |
+| [Products](../Product/Products.md) | View products (treated products) |
 | Lab Results | View/enter test results |
 
 ## Related Documentation

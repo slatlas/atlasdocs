@@ -30,11 +30,11 @@ Access to Consignment Locations features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Locations | View locations (consignment sites) |
-| Products | View products (consigned items) |
-| Product Inventory | Track consignment inventory |
-| Treatments | View consumption records |
-| Invoices | Generate consumption-based billing |
+| [Locations](Locations.md) | View locations (consignment sites) |
+| [Products](../Product/Products.md) | View products (consigned items) |
+| [Product Inventory](../Product/ProductInventory.md) | Track consignment inventory |
+| [Treatments](../Distribution/Treatments.md) | View consumption records |
+| [Invoices](../Billing/Invoices.md) | Generate consumption-based billing |
 
 ## Related Documentation
 

@@ -31,11 +31,11 @@ Access to Treatment Routes features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Locations | View locations (added to routes) |
-| Personnel | View personnel (assigned to routes) |
+| [Locations](../AreaManagement/Locations.md) | View locations (added to routes) |
+| [Personnel](../AreaManagement/Personnel.md) | View personnel (assigned to routes) |
 | Treatment Schedules | View schedules (route-based scheduling) |
-| Delivery Orders | View delivery orders (generated from routes) |
-| Route Tracker | Track route execution in real-time |
+| [Delivery Orders](DeliveryOrders.md) | View delivery orders (generated from routes) |
+| [Route Tracker](RouteTracker.md) | Track route execution in real-time |
 
 ## Related Documentation
 

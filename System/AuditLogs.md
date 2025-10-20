@@ -49,7 +49,7 @@ Access to Audit Logs features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Users | View users (audit log actors) |
+| [Users](Users.md) | View users (audit log actors) |
 
 ## Related Documentation
 

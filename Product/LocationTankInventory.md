@@ -29,10 +29,10 @@ Access to Location Tank Inventory features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Locations | View locations (tank locations) |
-| Products | View products (inventoried items) |
-| Consignment Locations | Manage consignment inventory |
-| Delivery Orders | Create replenishment orders |
+| [Locations](../AreaManagement/Locations.md) | View locations (tank locations) |
+| [Products](Products.md) | View products (inventoried items) |
+| [Consignment Locations](../AreaManagement/ConsignmentLocations.md) | Manage consignment inventory |
+| [Delivery Orders](../Distribution/DeliveryOrders.md) | Create replenishment orders |
 
 ## Related Documentation
 

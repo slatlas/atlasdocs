@@ -37,11 +37,11 @@ Access to Sales Orders features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Customers | View customers (required to create orders) |
-| Locations | View locations (required to specify delivery location) |
-| Products | View products (required to add items to orders) |
-| Price Schedules | View pricing (used for order pricing) |
-| Delivery Orders | View/create delivery orders from sales orders |
+| [Customers](../AreaManagement/Customers.md) | View customers (required to create orders) |
+| [Locations](../AreaManagement/Locations.md) | View locations (required to specify delivery location) |
+| [Products](../Product/Products.md) | View products (required to add items to orders) |
+| [Price Schedules](../Product/PriceSchedules.md) | View pricing (used for order pricing) |
+| [Delivery Orders](DeliveryOrders.md) | View/create delivery orders from sales orders |
 
 ## Related Documentation
 

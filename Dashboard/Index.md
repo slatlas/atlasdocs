@@ -31,10 +31,10 @@ Access to Dashboard features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Locations | View locations (dashboard widgets) |
-| Treatments | View treatments (dashboard widgets) |
-| Delivery Orders | View delivery orders (dashboard widgets) |
-| Invoices | View billing information (dashboard widgets) |
+| [Locations](../AreaManagement/Locations.md) | View locations (dashboard widgets) |
+| [Treatments](../Distribution/Treatments.md) | View treatments (dashboard widgets) |
+| [Delivery Orders](../Distribution/DeliveryOrders.md) | View delivery orders (dashboard widgets) |
+| [Invoices](../Billing/Invoices.md) | View billing information (dashboard widgets) |
 
 ## Related Documentation
 

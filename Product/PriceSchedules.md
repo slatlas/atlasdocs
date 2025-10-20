@@ -37,10 +37,10 @@ Access to Price Schedules features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Products | View products (priced items) |
-| Customers | View customers (price schedule assignees) |
-| Locations | View locations (price schedule applicability) |
-| Sales Orders | Create orders using price schedules |
+| [Products](Products.md) | View products (priced items) |
+| [Customers](../AreaManagement/Customers.md) | View customers (price schedule assignees) |
+| [Locations](../AreaManagement/Locations.md) | View locations (price schedule applicability) |
+| [Sales Orders](../Distribution/SalesOrders.md) | Create orders using price schedules |
 
 ## Related Documentation
 

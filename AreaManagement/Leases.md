@@ -30,9 +30,9 @@ Access to Leases features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Areas | View areas (lease regions) |
-| Locations | View locations within leases |
-| Customers | View customers (lease owners) |
+| [Areas](Areas.md) | View areas (lease regions) |
+| [Locations](Locations.md) | View locations within leases |
+| [Customers](Customers.md) | View customers (lease owners) |
 
 ## Related Documentation
 

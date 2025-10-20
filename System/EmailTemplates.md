@@ -43,7 +43,7 @@ Access to Email Templates features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Languages | Manage localized template versions |
+| [Languages](Languages.md) | Manage localized template versions |
 | Tenant Settings | Configure email server settings |
 
 ## Related Documentation

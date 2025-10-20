@@ -31,10 +31,10 @@ Access to Personnel features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Users | View/manage user accounts (linked to personnel) |
-| Treatment Routes | Assign personnel to routes |
-| Delivery Orders | Assign personnel to deliveries |
-| Areas | View areas (personnel assignments) |
+| [Users](../System/Users.md) | View/manage user accounts (linked to personnel) |
+| [Treatment Routes](../Distribution/TreatmentRoutes.md) | Assign personnel to routes |
+| [Delivery Orders](../Distribution/DeliveryOrders.md) | Assign personnel to deliveries |
+| [Areas](Areas.md) | View areas (personnel assignments) |
 
 ## Related Documentation
 

@@ -40,12 +40,12 @@ Access to Locations features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Customers | View customers (location owners) |
-| Leases | View leases (location groups) |
-| Areas | View areas (organizational regions) |
-| Treatments | View treatments at locations |
-| Delivery Orders | View deliveries to locations |
-| Sales Orders | View orders for locations |
+| [Customers](Customers.md) | View customers (location owners) |
+| [Leases](Leases.md) | View leases (location groups) |
+| [Areas](Areas.md) | View areas (organizational regions) |
+| [Treatments](../Distribution/Treatments.md) | View treatments at locations |
+| [Delivery Orders](../Distribution/DeliveryOrders.md) | View deliveries to locations |
+| [Sales Orders](../Distribution/SalesOrders.md) | View orders for locations |
 
 ## Related Documentation
 

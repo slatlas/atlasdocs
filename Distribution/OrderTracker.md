@@ -28,10 +28,10 @@ Access to Order Tracker features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Delivery Orders | View delivery orders (tracked orders) |
-| Treatments | View treatments (field execution) |
-| Personnel | View personnel (field staff locations) |
-| Locations | View locations (delivery destinations) |
+| [Delivery Orders](DeliveryOrders.md) | View delivery orders (tracked orders) |
+| [Treatments](Treatments.md) | View treatments (field execution) |
+| [Personnel](../AreaManagement/Personnel.md) | View personnel (field staff locations) |
+| [Locations](../AreaManagement/Locations.md) | View locations (delivery destinations) |
 
 ## Related Documentation
 

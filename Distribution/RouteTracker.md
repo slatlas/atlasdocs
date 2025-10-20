@@ -28,10 +28,10 @@ Access to Route Tracker features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Treatment Routes | View routes (tracked routes) |
-| Treatments | View treatments (route stops) |
-| Personnel | View personnel (field staff on routes) |
-| Locations | View locations (route stops) |
+| [Treatment Routes](TreatmentRoutes.md) | View routes (tracked routes) |
+| [Treatments](Treatments.md) | View treatments (route stops) |
+| [Personnel](../AreaManagement/Personnel.md) | View personnel (field staff on routes) |
+| [Locations](../AreaManagement/Locations.md) | View locations (route stops) |
 
 ## Related Documentation
 

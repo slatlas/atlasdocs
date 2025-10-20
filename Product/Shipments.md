@@ -108,10 +108,10 @@ Access to Shipments features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Purchase Orders | View/link purchase orders to inbound shipments |
-| Products | View products (required for shipment items) |
-| Warehouses | View warehouse locations |
-| Product Inventory | View inventory (automatically updated on shipment receipt) |
+| [Purchase Orders](PurchaseOrders.md) | View/link purchase orders to inbound shipments |
+| [Products](Products.md) | View products (required for shipment items) |
+| [Warehouses](Warehouses.md) | View warehouse locations |
+| [Product Inventory](ProductInventory.md) | View inventory (automatically updated on shipment receipt) |
 | Shipment Types | View shipment types |
 | Shipment Containers | View container types |
 

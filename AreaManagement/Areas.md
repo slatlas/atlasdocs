@@ -30,9 +30,9 @@ Access to Areas features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Leases | View leases within areas |
-| Locations | View locations within areas |
-| Personnel | View personnel assigned to areas |
+| [Leases](Leases.md) | View leases within areas |
+| [Locations](Locations.md) | View locations within areas |
+| [Personnel](Personnel.md) | View personnel assigned to areas |
 
 ## Related Documentation
 

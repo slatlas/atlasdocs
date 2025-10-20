@@ -40,7 +40,7 @@ Access to Languages features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Email Templates | Manage translated email templates |
+| [Email Templates](EmailTemplates.md) | Manage translated email templates |
 
 ## Related Documentation
 

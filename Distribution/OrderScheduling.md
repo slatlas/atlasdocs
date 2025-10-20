@@ -29,10 +29,10 @@ Access to Order Scheduling features requires the following permissions:
 | Display Name | Description |
 |--------------|-------------|
 | Treatment Schedules | View treatment schedules (source for scheduling) |
-| Locations | View locations (scheduled for treatment) |
-| Treatment Routes | View routes (route-based scheduling) |
-| Delivery Orders | Create delivery orders from schedule |
-| Sales Orders | View sales orders (order-based scheduling) |
+| [Locations](../AreaManagement/Locations.md) | View locations (scheduled for treatment) |
+| [Treatment Routes](TreatmentRoutes.md) | View routes (route-based scheduling) |
+| [Delivery Orders](DeliveryOrders.md) | Create delivery orders from schedule |
+| [Sales Orders](SalesOrders.md) | View sales orders (order-based scheduling) |
 
 ## Related Documentation
 

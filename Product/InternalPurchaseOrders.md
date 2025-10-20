@@ -37,10 +37,10 @@ Access to Internal Purchase Orders features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Warehouses | View warehouses (source and destination locations) |
-| Products | View products (transferred items) |
-| Shipments | Create/view internal shipments |
-| Product Inventory | View inventory (updated on transfer) |
+| [Warehouses](Warehouses.md) | View warehouses (source and destination locations) |
+| [Products](Products.md) | View products (transferred items) |
+| [Shipments](Shipments.md) | Create/view internal shipments |
+| [Product Inventory](ProductInventory.md) | View inventory (updated on transfer) |
 
 ## Related Documentation
 

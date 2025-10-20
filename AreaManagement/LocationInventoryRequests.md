@@ -30,10 +30,10 @@ Access to Location Inventory Requests features requires the following permission
 
 | Display Name | Description |
 |--------------|-------------|
-| Locations | View locations (request locations) |
-| Products | View products (requested items) |
-| Consignment Locations | View consignment arrangements |
-| Delivery Orders | Create orders from approved requests |
+| [Locations](Locations.md) | View locations (request locations) |
+| [Products](../Product/Products.md) | View products (requested items) |
+| [Consignment Locations](ConsignmentLocations.md) | View consignment arrangements |
+| [Delivery Orders](../Distribution/DeliveryOrders.md) | Create orders from approved requests |
 
 ## Related Documentation
 

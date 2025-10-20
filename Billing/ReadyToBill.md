@@ -30,10 +30,10 @@ Access to Ready To Bill features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Invoices | Create invoices from unbilled items |
-| Delivery Orders | View completed deliveries |
-| Treatments | View completed treatments |
-| Customers | View customers (billing recipients) |
+| [Invoices](Invoices.md) | Create invoices from unbilled items |
+| [Delivery Orders](../Distribution/DeliveryOrders.md) | View completed deliveries |
+| [Treatments](../Distribution/Treatments.md) | View completed treatments |
+| [Customers](../AreaManagement/Customers.md) | View customers (billing recipients) |
 
 ## Related Documentation
 

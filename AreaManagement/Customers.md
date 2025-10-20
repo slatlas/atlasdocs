@@ -30,12 +30,12 @@ Access to Customers features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Customer Projects | View/manage customer projects |
-| Locations | View locations (linked to customers) |
-| Leases | View leases (linked to customers) |
-| Sales Orders | Create orders for customers |
-| Price Schedules | Manage customer-specific pricing |
-| Invoices | View customer invoices |
+| [Customer Projects](CustomerProjects.md) | View/manage customer projects |
+| [Locations](Locations.md) | View locations (linked to customers) |
+| [Leases](Leases.md) | View leases (linked to customers) |
+| [Sales Orders](../Distribution/SalesOrders.md) | Create orders for customers |
+| [Price Schedules](../Product/PriceSchedules.md) | Manage customer-specific pricing |
+| [Invoices](../Billing/Invoices.md) | View customer invoices |
 
 ## Related Documentation
 

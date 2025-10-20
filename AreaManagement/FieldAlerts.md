@@ -31,8 +31,8 @@ Access to Field Alerts features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Locations | View locations (alert locations) |
-| Personnel | View/assign personnel to alerts |
+| [Locations](Locations.md) | View locations (alert locations) |
+| [Personnel](Personnel.md) | View/assign personnel to alerts |
 
 ## Related Documentation
 

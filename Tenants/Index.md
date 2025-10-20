@@ -40,9 +40,9 @@ Access to Tenants features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Editions | Manage editions (assigned to tenants) |
-| Subscription | Manage subscription settings |
-| Audit Logs | View tenant activity logs |
+| [Editions](../Editions/Index.md) | Manage editions (assigned to tenants) |
+| [Subscription](../System/Subscription.md) | Manage subscription settings |
+| [Audit Logs](../System/AuditLogs.md) | View tenant activity logs |
 
 ## Related Documentation
 

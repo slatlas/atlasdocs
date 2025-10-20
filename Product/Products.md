@@ -35,9 +35,9 @@ Access to Products features requires the following permissions:
 |--------------|-------------|
 | Product Categories | View/manage product categories |
 | Product Types | View/manage product types |
-| Product Blends | View product blend formulations |
-| Price Schedules | View/manage customer-specific pricing |
-| Product Inventory | View product inventory levels |
+| [Product Blends](../Blends/Index.md) | View product blend formulations |
+| [Price Schedules](PriceSchedules.md) | View/manage customer-specific pricing |
+| [Product Inventory](ProductInventory.md) | View product inventory levels |
 
 ## Related Documentation
 

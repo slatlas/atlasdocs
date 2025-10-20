@@ -30,10 +30,10 @@ Access to Customer Projects features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Customers | View customers (project owners) |
-| Locations | View/assign locations to projects |
-| Leases | View/assign leases to projects |
-| Invoices | View project-related billing |
+| [Customers](Customers.md) | View customers (project owners) |
+| [Locations](Locations.md) | View/assign locations to projects |
+| [Leases](Leases.md) | View/assign leases to projects |
+| [Invoices](../Billing/Invoices.md) | View project-related billing |
 
 ## Related Documentation
 

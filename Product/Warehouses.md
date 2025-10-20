@@ -36,10 +36,10 @@ Access to Warehouses features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Product Inventory | View inventory at warehouses |
-| Shipments | View shipments to/from warehouses |
-| Blend Batches | View batches produced at warehouses |
-| Purchase Orders | View orders receiving to warehouses |
+| [Product Inventory](ProductInventory.md) | View inventory at warehouses |
+| [Shipments](Shipments.md) | View shipments to/from warehouses |
+| [Blend Batches](ProductBlendBatchs.md) | View batches produced at warehouses |
+| [Purchase Orders](PurchaseOrders.md) | View orders receiving to warehouses |
 
 ## Related Documentation
 

@@ -34,13 +34,13 @@ Access to Search features requires the following permissions:
 
 | Display Name | Description |
 |--------------|-------------|
-| Customers | Search customers |
-| Locations | Search locations |
-| Leases | Search leases |
-| Areas | Search areas |
-| Batteries | Search batteries |
-| Personnel | Search personnel |
-| Products | Search products |
+| [Customers](../AreaManagement/Customers.md) | Search customers |
+| [Locations](../AreaManagement/Locations.md) | Search locations |
+| [Leases](../AreaManagement/Leases.md) | Search leases |
+| [Areas](../AreaManagement/Areas.md) | Search areas |
+| [Batteries](../AreaManagement/Batteries.md) | Search batteries |
+| [Personnel](../AreaManagement/Personnel.md) | Search personnel |
+| [Products](../Product/Products.md) | Search products |
 
 ## Related Documentation
 
