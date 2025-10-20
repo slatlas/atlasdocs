@@ -2,9 +2,7 @@
 
 Treatments are records of chemical applications and services performed at customer locations. Treatment records document what was done, products used, quantities applied, and results observed.
 
-**Route:** `/app/main/production/treatments`
 **Permission:** `Pages.Treatments`
-**Feature Required:** `App.BillingManagementFeature`
 
 ## Overview
 

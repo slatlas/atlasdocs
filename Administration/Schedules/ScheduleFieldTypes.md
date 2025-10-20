@@ -2,7 +2,6 @@
 
 Schedule Field Types define custom data fields that can be added to schedule configurations for capturing job-specific settings and parameters.
 
-**Route:** `/app/admin/jobs/scheduleFieldTypes`
 **Permission:** `Pages.Administration.ScheduleFieldTypes`
 
 ## Overview

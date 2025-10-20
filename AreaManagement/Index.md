@@ -2,7 +2,6 @@
 
 Area Management provides comprehensive tools for managing the organizational hierarchy of your operations, including customers, leases, areas, locations, batteries, personnel, and related entities. This module is the foundation for tracking where work is performed and who is involved.
 
-**Feature Required:** `App.LeaseManagementFeature`
 
 ## Overview
 

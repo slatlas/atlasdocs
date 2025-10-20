@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:_config.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -282,6 +286,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-20T17:20:57.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "_config.yml",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\_config.yml",
               "RelativeDocumentMoniker": "_config.yml",
@@ -294,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Index.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Schedules\\Index.md",
               "RelativeDocumentMoniker": "Schedules\\Index.md",
@@ -306,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "User-Dashboard-Edit.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\User-Dashboard-Edit.md",
               "RelativeDocumentMoniker": "Tutorials\\User-Dashboard-Edit.md",
@@ -318,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "tutorials.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\tutorials.md",
               "RelativeDocumentMoniker": "Tutorials\\tutorials.md",
@@ -330,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "quickstart.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\quickstart.md",
               "RelativeDocumentMoniker": "Tutorials\\quickstart.md",
@@ -342,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Index.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\Navigation\\Index.md",
               "RelativeDocumentMoniker": "Tutorials\\Navigation\\Index.md",
@@ -354,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\README.md",
               "RelativeDocumentMoniker": "README.md",
@@ -366,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Treating.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\Treating.md",
               "RelativeDocumentMoniker": "Mobile\\Treating.md",
@@ -378,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Dashboard.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\Dashboard.md",
               "RelativeDocumentMoniker": "Mobile\\Dashboard.md",
@@ -390,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Login.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\Login.md",
               "RelativeDocumentMoniker": "Mobile\\Login.md",
@@ -402,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DeliveryOrders.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\DeliveryOrders.md",
               "RelativeDocumentMoniker": "Mobile\\DeliveryOrders.md",
@@ -414,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Template.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Template.md",
               "RelativeDocumentMoniker": "Template.md",
@@ -426,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Sandbox.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\Sandbox.md",
               "RelativeDocumentMoniker": "Mobile\\Sandbox.md",
@@ -438,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "MobileSettings.PNG",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\images\\MobileSettings.PNG",
               "RelativeDocumentMoniker": "images\\MobileSettings.PNG",
@@ -449,7 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Settings.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\Settings.md",
               "RelativeDocumentMoniker": "Mobile\\Settings.md",
@@ -461,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "create.md",
               "DocumentMoniker": "C:\\Users\\Ron-BD Tech\\source\\repos\\atlasdocs\\Web\\purchaseOrders\\create.md",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Ron-BD Tech\\source\\repos\\atlasdocs\\Web\\purchaseOrders\\create.md",
@@ -473,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Getting-Started.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\Getting-Started.md",
               "RelativeDocumentMoniker": "Tutorials\\Getting-Started.md",
@@ -485,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Index.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Tutorials\\Index.md",
               "RelativeDocumentMoniker": "Tutorials\\Index.md",
@@ -497,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Index.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Index.md",
               "RelativeDocumentMoniker": "Index.md",
@@ -509,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Intro.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Mobile\\Intro.md",
               "RelativeDocumentMoniker": "Mobile\\Intro.md",
@@ -521,7 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Index.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\System\\Index.md",
               "RelativeDocumentMoniker": "System\\Index.md",
@@ -533,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "navigation.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Web\\navigation.md",
               "RelativeDocumentMoniker": "Web\\navigation.md",
@@ -545,7 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "customizing.md",
               "DocumentMoniker": "C:\\Users\\ronfr\\source\\repos\\slatlas\\atlasdocs\\Web\\dashboard\\customizing.md",
               "RelativeDocumentMoniker": "Web\\dashboard\\customizing.md",

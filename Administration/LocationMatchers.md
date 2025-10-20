@@ -2,7 +2,6 @@
 
 Location Matchers define rules for matching location identifiers during data imports. This feature ensures that imported data from various sources is correctly associated with locations in Atlas despite variations in naming or coding.
 
-**Route:** `/app/main/management/locationMatchers`
 **Permission:** `Pages.Administration.LocationMatchers`
 
 ## Overview

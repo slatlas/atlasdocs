@@ -9,8 +9,7 @@ The System section contains essential administrative tools for configuring Atlas
 ## Main Components
 
 ### Settings
-* [Host Settings](../Web/admin/settings.md) - System-wide settings for host administrators
-* [Tenant Settings](../Web/admin/settings.md) - Tenant-specific configuration settings
+* [Settings](../Web/admin/settings.md) - System-wide settings and configuration
 
 ### User and Access Management
 * [Roles](../Roles/Index.md) - Role definitions and permission management
@@ -33,7 +32,7 @@ The System section contains essential administrative tools for configuring Atlas
 * [Maintenance](Maintenance.md) - System maintenance tools (Host only)
 
 ### Advanced Features
-* [Subscription Management](Subscription.md) - Tenant subscription management
+* [Subscription Management](Subscription.md) - Subscription management
 * [Dynamic Extensions](DynamicExtensions.md) - Custom field extensions
 
 ## Common Administrative Tasks
@@ -62,26 +61,26 @@ System settings page is used to configure global settings.
 
 ### General
 
-Under the general tab, you can configure default time zone setting for users of that tenant. Each user of the tenant can also change this setting for their own account. 
+Under the general tab, you can configure default time zone settings for users. Each user can also change this setting for their own account. 
 
 ### Appearance
 
-Under the appearance tab, each tenant can upload a logo file and upload a custom css file. In this way, each tenant can change the look of the application only for their account. Uploaded logo and css files can be easily removed by using the clear button.
+Under the appearance tab, you can upload a logo file and upload a custom css file to customize the look of the application. Uploaded logo and css files can be easily removed by using the clear button.
 
 ### User Management
 
-Under the user management tab, each tenant can configure some user management settings related to their account. Each tenant can enable/disable user registration for their account. Tenants can also make newly registered users for their account active or passive by default.
+Under the user management tab, you can configure user management settings. You can enable/disable user registration and make newly registered users active or passive by default.
 
-Admins can also enable/disable captcha on user registration and login page for your system.
+Admins can also enable/disable captcha on user registration and login pages.
 
-Admins can also enable/disable session timeout control for users. If it is enable and the user does not provide any input to the site during the timeout period, a countdown modal will be displayed to user. If the user still does not provide any input to the site during the modal countdown period, user will be log out.
+Admins can also enable/disable session timeout control for users. If enabled and the user does not provide any input to the site during the timeout period, a countdown modal will be displayed to the user. If the user still does not provide any input to the site during the modal countdown period, the user will be logged out.
 
-Also, Admins can enable/disable cookie consent so Atlas shows a cookie consent bar for the users to accept cookie policy of the application.
+Admins can enable/disable cookie consent so Atlas shows a cookie consent bar for users to accept the cookie policy of the application.
 
 Admins can force email confirmation for login.
 
-Admins can allow users to use Gravatar profile picture or not.
+Admins can allow users to use Gravatar profile pictures.
 
 ### Security
 
-Security tab contains password complexity settings. Each tenant can define password complexity settings in this tab for their account. Admins can also configure user lock out settings.
+Security tab contains password complexity settings. Admins can define password complexity settings and configure user lock out settings.

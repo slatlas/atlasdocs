@@ -2,7 +2,6 @@
 
 Product Management provides comprehensive tools for managing your product catalog, inventory, warehousing, pricing, purchasing, and shipments. This module ensures you have visibility and control over all product-related operations from procurement to delivery.
 
-**Feature Required:** `App.ProductManagementFeature`
 
 ## Overview
 

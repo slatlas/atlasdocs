@@ -2,9 +2,7 @@
 
 Personnel manages information about field staff, technicians, and employees who perform operational work. Personnel records track contact information, roles, certifications, and work assignments.
 
-**Route:** `/app/main/management/personnel`
 **Permission:** `Pages.Personnel`
-**Feature Required:** `App.LeaseManagementFeature`
 
 ## Overview
 

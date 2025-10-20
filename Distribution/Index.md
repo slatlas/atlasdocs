@@ -2,7 +2,6 @@
 
 Distribution manages the delivery of products and services to customer locations, including delivery orders, sales orders, scheduling, route planning, and treatment execution. This module coordinates all aspects of product distribution from order creation through delivery and treatment.
 
-**Feature Required:** `App.BillingManagementFeature`
 
 ## Overview
 

@@ -2,9 +2,7 @@
 
 Transfer Project allows you to move customer projects and their associated locations from one customer to another. This is useful when ownership changes or when operational responsibility for a project is transferred between organizations.
 
-**Route:** `/app/main/management/customerProjects` (with transfer mode)
 **Permission:** `Pages.CustomerProjects.Transfer`
-**Feature Required:** `App.LeaseManagementFeature`
 
 ## Overview
 

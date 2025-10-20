@@ -2,9 +2,7 @@
 
 Consignment Locations are sites where inventory is stored on-site for customer use, with billing occurring only when product is consumed. This module manages consignment inventory tracking and usage monitoring at designated locations.
 
-**Route:** `/app/main/management/consignmentLocations`
 **Permission:** `Pages.ConsignmentLocations`
-**Feature Required:** `App.LeaseManagementFeature`
 
 ## Overview
 

@@ -2,7 +2,6 @@
 
 Dashboard Builder provides an interactive tool for designing and configuring custom dashboards with drag-and-drop widgets, charts, and data visualizations.
 
-**Route:** `/app/admin/hostDashboardBuilder`
 **Permission:** `Pages.Administration.Host.DashboardBuilder`
 
 ## Overview

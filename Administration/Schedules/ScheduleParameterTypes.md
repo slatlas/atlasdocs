@@ -2,7 +2,6 @@
 
 Schedule Parameter Types define the types of parameters that can be passed to scheduled jobs, controlling job behavior and configuration options.
 
-**Route:** `/app/admin/jobs/scheduleParameterTypes`
 **Permission:** `Pages.Administration.ScheduleParameterTypes`
 
 ## Overview

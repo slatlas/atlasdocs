@@ -2,9 +2,7 @@
 
 Delivery Orders represent scheduled deliveries of products to customer locations. These orders are created from sales orders and track the dispatch, delivery, and completion of product deliveries.
 
-**Route:** `/app/main/billing/doDashboard`
 **Permission:** `Pages.DeliveryOrders`
-**Feature Required:** `App.BillingManagementFeature`
 
 ## Overview
 

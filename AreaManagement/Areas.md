@@ -2,9 +2,7 @@
 
 Areas represent geographical or operational regions used to organize leases and locations. Areas provide a high-level organizational structure for grouping related properties and operations within your company.
 
-**Route:** `/app/main/management/areas`
 **Permission:** `Pages.Areas`
-**Feature Required:** `App.LeaseManagementFeature`
 
 ## Overview
 

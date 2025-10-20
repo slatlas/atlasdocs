@@ -2,7 +2,6 @@
 
 Email Templates manages the template library for automated emails sent by Atlas, including notifications, invoices, reports, and other system-generated communications.
 
-**Route:** `/app/admin/notifications/emailTemplates`
 **Permission:** `Pages.Administration.EmailTemplates`
 
 ## Overview

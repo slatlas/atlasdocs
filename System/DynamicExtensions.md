@@ -2,7 +2,6 @@
 
 Dynamic Extensions (Dynamic Properties) allows administrators to add custom fields and properties to standard Atlas entities without code changes, enabling system customization for specific business needs.
 
-**Route:** `/app/admin/dynamic-property`
 **Permission:** `Pages.Administration.Users.Create`
 
 ## Overview

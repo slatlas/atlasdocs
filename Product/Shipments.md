@@ -2,9 +2,7 @@
 
 Shipments track the receipt of products from vendors and the movement of inventory between warehouses. This module ensures accurate inventory tracking and provides visibility into inbound and outbound logistics.
 
-**Route:** `/app/main/billing/shipments`
 **Permission:** `Pages.Shipments`
-**Feature Required:** `App.ProductManagementFeature`
 
 ## Overview
 

@@ -2,9 +2,7 @@
 
 Reports provides a library of pre-built and custom reports for analyzing operations, production, treatments, billing, and other business data. This module enables data-driven decision making across all areas of the business.
 
-**Route:** `/app/main/reporting/reports`
 **Permission:** `Pages.Reports`
-**Feature Required:** `App.ReportsFeature`
 
 ## Overview
 
@@ -51,23 +49,17 @@ Reports can be scheduled to run automatically:
 ## Lookup Tables
 
 ### Report Types
-**Route:** `/app/admin/reporting/reportTypes`  
 **Permission:** `Pages.Administration.ReportTypes`  
-**Feature Required:** `App.ReportsFeature`
 
 Report Types categorize reports by purpose and content (e.g., Operational, Financial, Regulatory, Customer-Facing) for organization and access control.
 
 ### Report Time Periods
-**Route:** `/app/admin/reporting/reportTimePeriods`  
 **Permission:** `Pages.Administration.ReportTimePeriods`  
-**Feature Required:** `App.ReportsFeature`
 
 Report Time Periods define standard date ranges for reports (e.g., Last 7 Days, Month to Date, Last Month, Quarter to Date, Year to Date, Custom Range).
 
 ### Report Categories
-**Route:** `/app/admin/reporting/reportCategories`  
 **Permission:** `Pages.Administration.ReportCategories`  
-**Feature Required:** `App.ReportsFeature`
 
 Report Categories organize reports into logical groupings (e.g., Production, Billing, Inventory, Operations, Lab) for easier browsing and discovery.
 

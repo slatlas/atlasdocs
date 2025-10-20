@@ -1,13 +1,12 @@
 # Subscription Management
 
-Subscription Management allows tenant administrators to view and manage their subscription details, upgrade/downgrade plans, and configure billing information.
+Subscription Management allows administrators to view and manage subscription details, upgrade/downgrade plans, and configure billing information.
 
-**Route:** `/app/admin/subscription-management`
 **Permission:** `Pages.Administration.Tenant.SubscriptionManagement`
 
 ## Overview
 
-The Subscription Management page displays subscription details for the current tenant including the edition, features, usage limits, and billing status. Tenants can upgrade or modify their subscription as needed.
+The Subscription Management page displays subscription details including the edition, features, usage limits, and billing status. You can upgrade or modify your subscription as needed.
 
 ## Key Features
 

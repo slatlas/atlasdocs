@@ -2,7 +2,6 @@
 
 Schedule Time Frames define time windows during which scheduled jobs can or cannot run, allowing control over when resource-intensive tasks execute.
 
-**Route:** `/app/admin/jobs/scheduleTimeFrames`
 **Permission:** `Pages.Administration.ScheduleTimeFrames`
 
 ## Overview

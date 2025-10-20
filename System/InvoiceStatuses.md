@@ -2,7 +2,6 @@
 
 Invoice Statuses defines the lifecycle states for invoices as they progress from creation through payment, providing workflow control and tracking for billing processes.
 
-**Route:** `/app/admin/billing/invoiceStatuses`
 **Permission:** `Pages.Administration.InvoiceStatuses`
 
 ## Overview

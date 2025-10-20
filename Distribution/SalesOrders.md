@@ -2,9 +2,7 @@
 
 Sales Orders document customer purchases of products and services. Sales orders are the starting point for the order-to-cash process and are used to create delivery orders and generate invoices.
 
-**Route:** `/app/main/billing/salesOrders`
 **Permission:** `Pages.SalesOrders`
-**Feature Required:** `App.BillingManagementFeature`
 
 ## Overview
 

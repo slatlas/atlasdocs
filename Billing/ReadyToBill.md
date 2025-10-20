@@ -2,9 +2,7 @@
 
 Ready To Bill provides a dashboard of completed delivery orders, treatments, and other billable activities that are ready to be invoiced. This page helps billing staff identify unbilled work and create invoices efficiently.
 
-**Route:** `/app/main/billing/dashboard`
 **Permission:** `Pages.Invoices.ReadyToBill`
-**Feature Required:** `App.BillingManagementFeature`
 
 ## Overview
 

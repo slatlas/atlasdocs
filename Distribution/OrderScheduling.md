@@ -2,9 +2,7 @@
 
 Order Scheduling provides tools for planning and optimizing when treatments and deliveries should occur based on treatment frequencies, location schedules, and operational constraints.
 
-**Route:** `/app/main/production/treatmentSchedules`
 **Permission:** `Pages.Scheduler`
-**Feature Required:** `App.BillingManagementFeature`
 
 ## Overview
 

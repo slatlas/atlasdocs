@@ -2,7 +2,6 @@
 
 Maintenance provides tools for host administrators to perform system maintenance tasks including cache management, database operations, and system health checks.
 
-**Route:** `/app/admin/maintenance`
 **Permission:** `Pages.Administration.Host.Maintenance`
 
 ## Overview

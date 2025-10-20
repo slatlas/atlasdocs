@@ -2,7 +2,6 @@
 
 Background Job Logs provides visibility into the execution history of scheduled jobs, including success/failure status, execution times, and error messages.
 
-**Route:** `/app/admin/jobs/backgroundJobLogs`
 **Permission:** `Pages.Administration.BackgroundJobLogs`
 
 ## Overview

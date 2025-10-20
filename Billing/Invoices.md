@@ -2,9 +2,7 @@
 
 Invoices document charges for products and services provided to customers. This module manages invoice creation, formatting, delivery, and payment tracking.
 
-**Route:** `/app/main/billing/invoiceDashboard`
 **Permission:** `Pages.Invoices`
-**Feature Required:** `App.BillingManagementFeature`
 
 ## Overview
 

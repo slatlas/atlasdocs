@@ -2,7 +2,6 @@
 
 The Search feature provides a powerful global search capability across all major entities in Atlas including customers, leases, locations, areas, batteries, personnel, and more. This allows you to quickly find any record in the system from a single search interface.
 
-**Route:** `/app/main/search/all`
 **Permission:** `Pages.Customers.Search`
 
 ## Overview

@@ -2,9 +2,7 @@
 
 Batteries are groupings of related well locations, typically representing wells that share common facilities or infrastructure. Batteries provide an intermediate organizational level between leases and individual locations.
 
-**Route:** `/app/main/management/batteries`
 **Permission:** `Pages.Batteries`
-**Feature Required:** `App.LeaseManagementFeature`
 
 ## Overview
 

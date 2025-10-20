@@ -2,7 +2,6 @@
 
 Integrations manages connections between Atlas and external systems such as accounting software, SCADA systems, production databases, and other third-party applications.
 
-**Route:** `/app/admin/integrations`
 **Permission:** `Pages.Administration.Tenant.Settings`
 
 ## Overview

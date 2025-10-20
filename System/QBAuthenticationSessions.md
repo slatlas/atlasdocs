@@ -2,7 +2,6 @@
 
 QuickBooks Authentication Sessions manages the OAuth authentication connections between Atlas and QuickBooks Online for financial data integration and synchronization.
 
-**Route:** `/app/admin/integration/qbAuthenticationSessions`
 **Permission:** `Pages.Administration.QBAuthenticationSessions`
 
 ## Overview

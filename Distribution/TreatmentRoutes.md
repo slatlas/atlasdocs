@@ -2,9 +2,7 @@
 
 Treatment Routes organize locations into logical sequences for efficient service delivery. Routes group locations by geography, service frequency, or operational area to optimize field personnel productivity.
 
-**Route:** `/app/main/production/treatmentRoutesSetup`
 **Permission:** `Pages.TreatmentRoutes.Create`
-**Feature Required:** `App.BillingManagementFeature`
 
 ## Overview
 

@@ -2,9 +2,7 @@
 
 Product Blend Batches track the creation of blended products from component materials. This module records batch formulations, production details, and resulting inventory for custom-blended products.
 
-**Route:** `/app/main/production/productBlendBatchs`
 **Permission:** `Pages.ProductBlendBatchs`
-**Feature Required:** `App.ProductManagementFeature`
 
 ## Overview
 

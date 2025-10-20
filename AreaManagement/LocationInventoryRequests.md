@@ -2,9 +2,7 @@
 
 Location Inventory Requests track requests to deliver or replenish inventory at specific locations. This feature helps manage consignment inventory and ensures locations have the necessary materials and products on hand.
 
-**Route:** `/app/main/management/locationInventoryRequests`
 **Permission:** `Pages.LocationInventoryRequests`
-**Feature Required:** `App.LeaseManagementFeature`
 
 ## Overview
 

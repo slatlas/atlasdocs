@@ -2,9 +2,7 @@
 
 Frac Jobs manages hydraulic fracturing operations including equipment, personnel, chemicals, and job execution tracking. This specialized module supports companies providing frac services.
 
-**Route:** `/app/main/production/fracJobs`
 **Permission:** `Pages.FracJobs`
-**Feature Required:** `App.FracJobsFeature`
 
 ## Overview
 
@@ -44,9 +42,7 @@ The Frac Jobs module provides comprehensive tracking for hydraulic fracturing op
 ## Lookup Tables
 
 ### Frac Job Types
-**Route:** `/app/main/production/fracJobTypes`  
 **Permission:** `Pages.FracJobTypes`  
-**Feature Required:** `App.FracJobsFeature`
 
 Frac Job Types categorize fracturing operations (e.g., Initial Completion, Refrac, Plug and Perf, Zipper Frac) for classification and specialized workflows.
 

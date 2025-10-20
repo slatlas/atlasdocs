@@ -2,7 +2,6 @@
 
 Queries provides a tool for creating and managing custom data queries and analytics. This module allows administrators and power users to extract specific data sets and create custom views of Atlas data.
 
-**Route:** `/app/admin/analytics/queries`
 **Permission:** `Pages.Administration.Queries`
 
 ## Overview
@@ -33,7 +32,6 @@ The Queries page allows you to create SQL-based queries or use a query builder i
 ## Query Types Lookup
 
 ### Query Types
-**Route:** `/app/admin/analytics/queryTypes`  
 **Permission:** `Pages.Administration.QueryTypes.Create`
 
 Query Types categorize queries by purpose (e.g., Reporting, Export, Audit, Analysis) for organization and access management.

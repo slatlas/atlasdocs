@@ -2,9 +2,7 @@
 
 Route Tracker provides real-time monitoring of treatment route execution, showing progress through the route, current location, and completion status for each stop.
 
-**Route:** `/app/main/billing/routeTracking`
 **Permission:** `Pages.OrderTracker`
-**Feature Required:** `App.BillingManagementFeature`
 
 ## Overview
 

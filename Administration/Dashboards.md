@@ -2,7 +2,6 @@
 
 Dashboards provides administrative management of dashboard configurations, including creating, editing, and assigning dashboards to users and roles.
 
-**Route:** `/app/admin/analytics/dashboards`
 **Permission:** `Pages.Administration.Host.Dashboard`
 
 ## Overview

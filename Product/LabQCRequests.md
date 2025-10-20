@@ -2,9 +2,7 @@
 
 Lab QC (Quality Control) Requests manage testing and quality assurance for products, particularly for blended products and incoming inventory. This ensures products meet specifications before being used or delivered to customers.
 
-**Route:** `/app/main/lims/labQCRequests`
 **Permission:** `Pages.LabQCRequests`
-**Feature Required:** `App.LabInformationManagementSystemFeature`
 
 ## Overview
 

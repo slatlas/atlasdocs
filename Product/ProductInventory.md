@@ -2,9 +2,7 @@
 
 Product Inventory provides real-time visibility into product quantities across all warehouses, vehicles, and storage locations. This module tracks inventory levels, movements, and helps prevent stockouts.
 
-**Route:** `/app/main/production/productInventory`
 **Permission:** `Pages.ProductInventory`
-**Feature Required:** `App.ProductManagementFeature`
 
 ## Overview
 

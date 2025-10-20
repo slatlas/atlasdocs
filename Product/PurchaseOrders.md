@@ -2,9 +2,7 @@
 
 Purchase Orders manage external purchases from vendors and suppliers. This module tracks orders from creation through receipt, ensuring proper procurement processes and inventory management.
 
-**Route:** `/app/main/billing/purchaseOrders` (isInternal: false)
 **Permission:** `Pages.PurchaseOrders`
-**Feature Required:** `App.ProductManagementFeature`
 
 ## Overview
 

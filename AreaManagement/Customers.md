@@ -2,9 +2,7 @@
 
 Customers are the organizations or companies that you provide services to. The Customers module manages customer information, contact details, billing settings, and relationships to locations and projects.
 
-**Route:** `/app/main/management/customers`
 **Permission:** `Pages.Customers`
-**Feature Required:** `App.CustomerManagementFeature`
 
 ## Overview
 

@@ -7,19 +7,16 @@ The Dashboard provides a centralized view of key metrics and information relevan
 ### Host Dashboard
 The Host Dashboard is available to system administrators and provides high-level oversight of all tenants, system performance, and administrative metrics across the entire Atlas platform.
 
-**Route:** `/app/admin/hostDashboard`
 **Permission:** `Pages.Administration.Host.Dashboard`
 
 ### Portal Dashboard  
 The Portal Dashboard is designed for customer portal users to view location data, documents, and other customer-facing information relevant to their account.
 
-**Route:** `/app/portal/dashboard`
 **Permission:** `Pages.Portal.Dashboard`
 
 ### Tenant Dashboard
 The Tenant Dashboard is the main operational dashboard for internal users, displaying production metrics, orders, treatments, and day-to-day operational information.
 
-**Route:** `/app/main/dashboard`
 **Permission:** `Pages.Tenant.Dashboard`
 
 ## Customization

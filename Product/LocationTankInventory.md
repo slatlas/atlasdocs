@@ -2,9 +2,7 @@
 
 Location Tank Inventory tracks product quantities stored at customer locations, including consignment inventory and tank levels. This provides visibility into customer site inventory for replenishment planning and usage monitoring.
 
-**Route:** `/app/main/production/usage`
 **Permission:** `Pages.Treatments`
-**Feature Required:** `App.ProductManagementFeature`
 
 ## Overview
 

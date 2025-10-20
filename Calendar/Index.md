@@ -2,7 +2,6 @@
 
 The Calendar provides a visual schedule of treatments, deliveries, lab samples, and other operational activities. This module helps coordinate work, identify schedule conflicts, and plan resources.
 
-**Route:** `/app/main/production/calendar`
 **Permission:** `Pages.Calendar`
 
 ## Overview

@@ -2,9 +2,7 @@
 
 Field Alerts are notifications and warnings about conditions, issues, or events at locations that require attention. Alerts help field personnel and operations staff quickly identify and respond to important situations.
 
-**Route:** `/app/main/management/fieldAlerts`
 **Permission:** `Pages.FieldAlerts`
-**Feature Required:** `App.LeaseManagementFeature`
 
 ## Overview
 

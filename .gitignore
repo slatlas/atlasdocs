@@ -2,7 +2,5 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/atlasdocs/CopilotIndices/17.14.1231.31060/CodeChunks.db-shm
-/.vs/atlasdocs/CopilotIndices/17.14.1231.31060/CodeChunks.db-wal
-/.vs/atlasdocs/CopilotIndices/17.14.1231.31060/SemanticSymbols.db-shm
-/.vs/atlasdocs/CopilotIndices/17.14.1231.31060/SemanticSymbols.db-wal
+/.vs/*
+ 

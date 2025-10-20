@@ -2,9 +2,7 @@
 
 Tenants represent separate organizations or business units within the Atlas system. Each tenant has its own isolated data, users, settings, and configurations, allowing multiple companies to use the same Atlas installation while keeping their data completely separate.
 
-**Route:** `/app/admin/tenants`
 **Permission:** `Pages.Tenants`
-**Feature Required:** None (Host-level feature)
 
 ## Overview
 

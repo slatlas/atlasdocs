@@ -2,7 +2,6 @@
 
 Schedule Types categorize scheduled jobs by their purpose and functionality, helping organize jobs and apply appropriate configurations and permissions.
 
-**Route:** `/app/admin/jobs/scheduleTypes`
 **Permission:** `Pages.Administration.ScheduleTypes`
 
 ## Overview

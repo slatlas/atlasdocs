@@ -2,9 +2,7 @@
 
 Price Schedules define customer-specific pricing for products. This module allows flexible pricing strategies based on customer, location, volume, and other factors.
 
-**Route:** `/app/main/production/priceSchedules`
 **Permission:** `Pages.PriceSchedules`
-**Feature Required:** `App.ProductManagementFeature`
 
 ## Overview
 

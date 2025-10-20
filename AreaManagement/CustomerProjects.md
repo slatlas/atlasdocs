@@ -2,9 +2,7 @@
 
 Customer Projects represent specific projects, wells, or operational initiatives associated with a customer. Projects help organize locations, costs, and activities related to a particular customer engagement or job.
 
-**Route:** `/app/main/management/customerProjects`
 **Permission:** `Pages.CustomerProjects`
-**Feature Required:** `App.LeaseManagementFeature`
 
 ## Overview
 

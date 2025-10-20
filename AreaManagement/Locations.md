@@ -2,9 +2,7 @@
 
 Locations represent individual well sites or facilities where treatments, sampling, and other operations are performed. Locations are the most granular level in the organizational hierarchy and contain detailed operational data.
 
-**Route:** `/app/main/management/locationsMap`
 **Permission:** `Pages.Locations`
-**Feature Required:** `App.LeaseManagementFeature`
 
 ## Overview
 

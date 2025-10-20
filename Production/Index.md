@@ -2,7 +2,6 @@
 
 Production tracks oil and gas production data from customer locations. This module records production volumes, monitors well performance, and provides production-based analysis and reporting.
 
-**Route:** `/app/main/production/locationProductions`
 **Permission:** `Pages.LocationProductions`
 
 ## Overview

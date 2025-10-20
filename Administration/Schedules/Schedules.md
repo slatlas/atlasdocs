@@ -2,7 +2,6 @@
 
 Schedules defines individual automated jobs and their execution configurations. Each schedule specifies what task to run, when to run it, and what parameters to use.
 
-**Route:** `/app/main/jobs/schedules`
 **Permission:** `Pages.Schedules`
 
 ## Overview

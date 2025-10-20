@@ -2,7 +2,6 @@
 
 Visual Settings (UI Customization) allows administrators to customize the appearance of Atlas including colors, logos, themes, and branding to match organizational identity.
 
-**Route:** `/app/admin/ui-customization`
 **Permission:** `Pages.Administration.UiCustomization`
 
 ## Overview

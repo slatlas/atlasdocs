@@ -2,9 +2,7 @@
 
 Leases represent the legal properties or land agreements where well locations are situated. Leases provide the organizational structure for grouping locations by property and are used throughout the system for reporting and operational management.
 
-**Route:** `/app/main/management/leases`
 **Permission:** `Pages.Leases`
-**Feature Required:** `App.LeaseManagementFeature`
 
 ## Overview
 

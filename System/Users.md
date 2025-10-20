@@ -2,7 +2,6 @@
 
 Users manages system user accounts, authentication, and access to Atlas. This module is used to create accounts, assign roles and permissions, and manage user settings.
 
-**Route:** `/app/admin/users`
 **Permission:** `Pages.Administration.Users`
 
 ## Overview

@@ -2,7 +2,6 @@
 
 Mobile Logs provides visibility into mobile device activity, synchronization, and error logs from the Atlas mobile application, helping troubleshoot field user issues and monitor mobile operations.
 
-**Route:** `/app/main/logging/mobileLogs`
 **Permission:** `Pages.MobileLogs`
 
 ## Overview

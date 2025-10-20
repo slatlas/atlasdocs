@@ -2,7 +2,6 @@
 
 Languages manages multi-language support and localization in Atlas, allowing the system to be used in different languages and regions.
 
-**Route:** `/app/admin/languages`
 **Permission:** `Pages.Administration.Languages`
 
 ## Overview

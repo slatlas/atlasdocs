@@ -2,9 +2,7 @@
 
 Treatment Approvals provide a workflow for reviewing and approving treatment routes before they are executed. This ensures routes are reviewed for accuracy, efficiency, and customer requirements before field deployment.
 
-**Route:** `/app/main/production/treatmentRoutesApproval`
 **Permission:** `Pages.TreatementRouteApprovals`
-**Feature Required:** `App.BillingManagementFeature`
 
 ## Overview
 

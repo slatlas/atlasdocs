@@ -2,7 +2,6 @@
 
 Organization Units provides hierarchical organization structure for managing users, permissions, and data access based on departments, divisions, or business units.
 
-**Route:** `/app/admin/organization-units`
 **Permission:** `Pages.Administration.OrganizationUnits`
 
 ## Overview

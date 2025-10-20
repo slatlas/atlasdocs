@@ -8,6 +8,21 @@ Atlas Software was designed to give users a complete view of your complex operat
 * [Getting Started](Tutorials/Getting-Started.md) guide can be used to login and navigate the Atlas application and explore the different options and details.
 * [Tutorials](Tutorials/Index.md) is a complete tutorial to understand and use all aspects of the Atlas solution.
 
+## Workflow Guides
+
+Quick-reference workflow guides for common business processes in Atlas:
+
+* [Workflow Guides Overview](Guides/Workflows/Index.md) - Complete list of all workflow guides
+
+**Quick Access to Key Workflows:**
+* [Sales Orders](Guides/Workflows/SalesOrders.md) - Creating customer orders
+* [Delivery Orders](Guides/Workflows/DeliveryOrders.md) - Scheduling and dispatching deliveries
+* [Field Treatments](Guides/Workflows/FieldTreatments.md) - Executing treatments in the field
+* [Invoicing](Guides/Workflows/Invoicing.md) - Billing customers for completed work
+* [Lab Orders](Guides/Workflows/LabOrders.md) - Collecting and submitting lab samples
+* [Customer Setup](Guides/Workflows/CustomerSetup.md) - Setting up new customer accounts
+* [Location Setup](Guides/Workflows/LocationSetup.md) - Adding new well locations
+
 ## Core Features
 
 * [Dashboard](Dashboard/Index.md) - Centralized view of key metrics (Host, Portal, and Tenant dashboards)

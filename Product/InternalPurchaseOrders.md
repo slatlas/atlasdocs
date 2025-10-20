@@ -2,9 +2,7 @@
 
 Internal Purchase Orders manage product transfers between your own warehouses and locations. These internal orders track inventory movements within your organization without involving external vendors.
 
-**Route:** `/app/main/billing/purchaseOrders` (isInternal: true)
 **Permission:** `Pages.PurchaseOrders`
-**Feature Required:** `App.ProductManagementFeature`
 
 ## Overview
 

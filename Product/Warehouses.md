@@ -2,9 +2,7 @@
 
 Warehouses are the storage locations where product inventory is maintained. This module manages warehouse definitions, locations, and organizational structure for inventory tracking.
 
-**Route:** `/app/admin/billing/warehouses`
 **Permission:** `Pages.Administration.Warehouses`
-**Feature Required:** `App.ProductManagementFeature`
 
 ## Overview
 

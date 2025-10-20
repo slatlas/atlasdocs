@@ -2,7 +2,6 @@
 
 Billing manages the invoicing process from identifying billable activities through invoice generation, delivery, and payment tracking. This module ensures accurate billing for products delivered and services performed.
 
-**Feature Required:** `App.BillingManagementFeature`
 
 ## Overview
 

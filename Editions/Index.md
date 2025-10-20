@@ -2,9 +2,7 @@
 
 Editions define feature packages that can be assigned to tenants, controlling which functionality is available to each organization. Editions enable a tiered subscription model where different tenants can have access to different features based on their subscription level.
 
-**Route:** `/app/admin/editions`
 **Permission:** `Pages.Editions`
-**Feature Required:** None (Host-level feature)
 
 ## Overview
 

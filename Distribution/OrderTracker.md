@@ -2,9 +2,7 @@
 
 Order Tracker provides real-time visibility into order status and location tracking for delivery orders and treatments. This tool helps operations staff monitor progress and respond to delays or issues.
 
-**Route:** `/app/main/billing/orderTracking`
 **Permission:** `Pages.OrderTracker`
-**Feature Required:** `App.BillingManagementFeature`
 
 ## Overview
 

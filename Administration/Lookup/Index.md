@@ -11,27 +11,22 @@ Lookup tables are organized by functional area to make them easier to find and m
 ### [Billing Lookups](Billing/Index.md)
 Configuration tables for billing and invoicing processes including billing periods, invoice templates, tax codes, and pricing configurations.
 
-**Feature Required:** `App.BillingManagementFeature`
 
 ### [Area Management Lookups](AreaManagement/Index.md)
 Reference data for customers, locations, leases, personnel, and related entities.
 
-**Feature Required:** `App.LeaseManagementFeature`
 
 ### [Distribution Lookups](Distribution/Index.md)
 Configuration tables for delivery orders, treatments, routes, and service types.
 
-**Feature Required:** `App.BillingManagementFeature`
 
 ### [LIMS Lookups](LIMS/Index.md)
 Reference data for laboratory testing, sample management, and lab result tracking.
 
-**Feature Required:** `App.LabInformationManagementSystemFeature`
 
 ### [Product Lookups](Product/Index.md)
 Configuration tables for products, inventory, vehicles, and warehouse management.
 
-**Feature Required:** `App.ProductManagementFeature`
 
 ### [Miscellaneous Lookups](Misc/Index.md)
 General lookup tables used across multiple modules including document types, note types, and query types.

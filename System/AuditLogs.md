@@ -2,7 +2,6 @@
 
 Audit Logs provides a comprehensive record of all system changes, user actions, and data modifications for compliance, security, and troubleshooting purposes.
 
-**Route:** `/app/admin/auditLogs`
 **Permission:** `Pages.Administration.AuditLogs`
 
 ## Overview

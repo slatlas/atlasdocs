@@ -2,7 +2,6 @@
 
 The Help Center provides access to documentation, tutorials, and support resources for Atlas users. This is your central location for learning how to use Atlas features and finding answers to common questions.
 
-**Route:** `/app/portal/help`
 **Permission:** `Pages.Portal.Help`
 
 ## Overview

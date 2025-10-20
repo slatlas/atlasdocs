@@ -2,9 +2,7 @@
 
 Products define the catalog of chemicals, equipment, services, and other items that can be sold, delivered, or tracked in Atlas. The Products module maintains product specifications, classifications, and base pricing information.
 
-**Route:** `/app/main/production/products`
 **Permission:** `Pages.Products`
-**Feature Required:** `App.ProductManagementFeature`
 
 ## Overview
 
