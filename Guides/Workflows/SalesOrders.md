@@ -2,7 +2,7 @@
 
 ## Overview
 
-Sales orders document customer purchases of chemical products and services for delivery to well locations. This workflow is used by sales staff and customer service representatives to create one-time orders, recurring service contracts, and product deliveries. Sales orders are the starting point for the order-to-cash process and drive delivery scheduling and invoicing.
+Sales orders document customer purchases of chemical products and services for delivery to well locations. This workflow is used by sales staff and customer service representatives to create orders for products and services. Sales orders are the starting point for the order-to-cash process and drive delivery scheduling and invoicing. Note: Sales orders themselves are one-time orders; recurring service is managed through treatment schedules configured on locations.
 
 ## Prerequisites
 
@@ -23,9 +23,9 @@ Sales orders document customer purchases of chemical products and services for d
 ```
 Customer Request → Create Sales Order → Add Products → Configure Pricing/Quantities
        ↓
-Set Delivery Location → Set Schedule (if recurring) → Review & Save
+Set Delivery Location → Review & Save → Activate Sales Order
        ↓
-Generate Delivery Orders ← Sales Order (Active)
+Generate Delivery Orders (from Sales Order + Treatment Schedules)
 ```
 
 ## Step-by-Step Procedure
@@ -50,31 +50,26 @@ Generate Delivery Orders ← Sales Order (Active)
    * Add multiple products as needed
 
 4. **Configure Order Details**
-   * **Order Type:** Select standard, recurring, or contract-based
+   * **Order Type:** Select standard or contract-based
    * **Service Type:** Choose treatment type or delivery service
    * **Authorization:** Enter customer PO number or authorization code
    * **Special Instructions:** Add any delivery or product application notes
+   * **Note:** For ongoing treatment services, the sales order authorizes service, while treatment schedules (configured on locations) control when treatments occur
 
-5. **Set Up Recurring Orders (if applicable)**
-   * Enable "Recurring Order" option
-   * Set frequency (daily, weekly, bi-weekly, monthly)
-   * Enter start date and end date (or leave open-ended)
-   * System will automatically generate delivery orders per schedule
-
-6. **Review and Validate**
+5. **Review and Validate**
    * Check that all products are correct
    * Verify pricing matches customer agreement
    * Confirm delivery location is accurate
    * Review total order value
 
-7. **Save the Sales Order**
+6. **Save the Sales Order**
    * Click "Save" to create the order
    * Order status will be set to "Active" or "Pending Approval" based on your workflow
    * Note the sales order number for reference
 
 ### Generating Delivery Orders from Sales Orders
 
-8. **Create Delivery Orders** (if not automated)
+7. **Create Delivery Orders** (if not automated)
    * From the sales order, click "Create Delivery Order"
    * OR navigate to Delivery Orders and generate from active sales orders
    * See [Delivery Order Management](DeliveryOrders.md) for details
@@ -85,11 +80,11 @@ Generate Delivery Orders ← Sales Order (Active)
 * **Always verify pricing** before finalizing the order, especially for new customers or special pricing arrangements
 * **Link to the correct location** - Confirm the specific well location, not just the lease or customer
 * **Document authorization** - Always enter the customer PO number or verbal authorization details
-* **Use recurring orders** for routine treatment services to reduce data entry
+* **Set up treatment schedules** - For ongoing treatment services, ensure treatment schedules are configured on the locations (see Treatment Route Setup)
 
 ### For Customer Service
 * **Check inventory availability** before promising delivery dates, especially for bulk orders
-* **Clarify treatment frequencies** with customers upfront to set correct recurring schedules
+* **Clarify treatment frequencies** with customers upfront - these are configured in treatment schedules on locations
 * **Note special instructions** clearly - field technicians rely on these for proper product application
 
 ### Industry-Specific Tips
@@ -105,8 +100,8 @@ Generate Delivery Orders ← Sales Order (Active)
 **Issue:** Cannot select desired location
 * **Solution:** Verify the location is active and linked to the customer. Check Location Management to update customer/location relationships.
 
-**Issue:** Recurring order not generating delivery orders
-* **Solution:** Verify the recurring schedule is active and the start date has passed. Check that the sales order status is "Active" not "Draft."
+**Issue:** Treatments not generating automatically
+* **Solution:** Sales orders don't generate treatments automatically. Treatments are generated from treatment schedules configured on locations. See Treatment Scheduling workflow. Ensure the location has a treatment schedule and treatment route assigned.
 
 **Issue:** Need to modify an existing sales order
 * **Solution:** Open the sales order, make changes, and save. If delivery orders have already been generated, you may need to adjust those separately.

@@ -128,8 +128,9 @@ Link to Lease/Area/Battery → Set Treatment Schedule → Configure Equipment �
     * See [Treatment Route Setup](TreatmentRoutes.md)
 
 15. **Create Sales Order** (if ongoing service)
-    * Set up recurring sales order for regular treatment
+    * Create sales order to authorize treatment services for this location
     * See [Sales Order Creation](SalesOrders.md)
+    * Note: Treatment frequency is controlled by treatment schedules, not sales orders
 
 16. **Configure Price Schedule** (if custom pricing)
     * Set location-specific pricing if needed

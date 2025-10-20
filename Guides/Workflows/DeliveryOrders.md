@@ -50,6 +50,7 @@ Ready for Billing → Invoice Generation
    * Set "Scheduled Delivery Date"
    * Enter time window if specific timing is required
    * Consider customer availability and access restrictions
+   * **Schedule Now Option:** Use "Schedule Now" to immediately dispatch the order - this skips scheduling steps and makes the order instantly available on mobile devices for field personnel to execute and mark as treated, starting the billing workflow
 
 4. **Assign to Route (if using route-based delivery)**
    * Select the treatment route this delivery belongs to
@@ -103,7 +104,7 @@ Ready for Billing → Invoice Generation
 ## Best Practices
 
 ### For Dispatchers
-* **Batch create delivery orders** at the start of each week based on recurring sales orders and schedules
+* **Batch create delivery orders** at the start of each week based on active sales orders and treatment schedules
 * **Group by geography** when assigning to routes to minimize drive time
 * **Confirm vehicle inventory** before dispatching - ensure products are loaded on the assigned vehicle
 * **Set realistic time windows** based on historical data and drive times
