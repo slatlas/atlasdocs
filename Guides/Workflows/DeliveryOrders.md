@@ -78,6 +78,7 @@ Ready for Billing → Invoice Generation
    * Update order status from "Scheduled" to "Dispatched"
    * This makes the order visible to field personnel on mobile devices
    * Personnel receive notification of dispatch
+   * **Note:** Orders dispatched via "Schedule Now" automatically get "Dispatched" status and appear immediately on mobile devices, ready to be marked as treated. Once completed in the field, the treatment automatically enters the billing workflow for invoicing
 
 9. **Monitor Execution**
    * Track order status in real-time using Order Tracker
@@ -105,6 +106,7 @@ Ready for Billing → Invoice Generation
 
 ### For Dispatchers
 * **Batch create delivery orders** at the start of each week based on active sales orders and treatment schedules
+* **Use "Schedule Now"** for urgent or same-day treatments - bypasses scheduling and immediately dispatches to mobile devices
 * **Group by geography** when assigning to routes to minimize drive time
 * **Confirm vehicle inventory** before dispatching - ensure products are loaded on the assigned vehicle
 * **Set realistic time windows** based on historical data and drive times
