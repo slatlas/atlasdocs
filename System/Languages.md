@@ -2,8 +2,6 @@
 
 Languages manages multi-language support and localization in Atlas, allowing the system to be used in different languages and regions.
 
-**Permission:** `Pages.Administration.Languages`
-
 ## Overview
 
 The Languages page allows administrators to configure which languages are available in Atlas, manage translations, and set default language preferences.
@@ -27,4 +25,25 @@ The Languages page allows administrators to configure which languages are availa
 * Report labels and headings
 * Help text and tooltips
 * Menu items
+
+## Permissions
+
+Access to Languages features requires the following permissions:
+
+| Display Name | Description |
+|--------------|-------------|
+| Languages | View language management and translations |
+| Edit Languages | Modify language settings and translations |
+| Change Texts | Edit text resources and labels |
+
+**Related Permissions:**
+
+| Display Name | Description |
+|--------------|-------------|
+| Email Templates | Manage translated email templates |
+
+## Related Documentation
+
+* [Email Templates](EmailTemplates.md) - Template localization
+* [User Settings](../Web/Account/settings.md) - User language preferences
 

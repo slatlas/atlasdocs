@@ -2,8 +2,6 @@
 
 Areas represent geographical or operational regions used to organize leases and locations. Areas provide a high-level organizational structure for grouping related properties and operations within your company.
 
-**Permission:** `Pages.Areas`
-
 ## Overview
 
 The Areas page manages geographical or operational regions within your organization. Areas serve as containers for leases and locations, making it easier to organize work by territory, field, or operational district.
@@ -16,6 +14,25 @@ The Areas page manages geographical or operational regions within your organizat
 * Organize personnel and resources by area
 * Report and analyze by geographical region
 * Configure area-specific settings
+
+## Permissions
+
+Access to Areas features requires the following permissions:
+
+| Display Name | Description |
+|--------------|-------------|
+| Areas | View area records |
+| Create Areas | Create new areas |
+| Edit Areas | Modify existing areas |
+| Delete Areas | Remove area records |
+
+**Related Permissions:**
+
+| Display Name | Description |
+|--------------|-------------|
+| Leases | View leases within areas |
+| Locations | View locations within areas |
+| Personnel | View personnel assigned to areas |
 
 ## Related Documentation
 

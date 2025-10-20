@@ -2,8 +2,6 @@
 
 The Calendar provides a visual schedule of treatments, deliveries, lab samples, and other operational activities. This module helps coordinate work, identify schedule conflicts, and plan resources.
 
-**Permission:** `Pages.Calendar`
-
 ## Overview
 
 The Calendar page displays operational activities in a monthly, weekly, or daily calendar view. Activities are color-coded by type and can be filtered to show specific operations, personnel, or locations.
@@ -37,4 +35,27 @@ The Calendar page displays operational activities in a monthly, weekly, or daily
 4. Create new activities using the Add button
 5. Drag activities to reschedule (if permitted)
 6. Print or export calendar for planning
+
+## Permissions
+
+Access to Calendar features requires the following permissions:
+
+| Display Name | Description |
+|--------------|-------------|
+| Calendar | View calendar and scheduled activities |
+
+**Related Permissions:**
+
+| Display Name | Description |
+|--------------|-------------|
+| Treatments | View treatments on calendar |
+| Delivery Orders | View delivery orders on calendar |
+| Lab Orders | View lab samples on calendar |
+| Treatment Routes | View route schedules |
+
+## Related Documentation
+
+* [Delivery Orders](../Distribution/DeliveryOrders.md) - Delivery scheduling
+* [Treatments](../Distribution/Treatments.md) - Treatment scheduling
+* [Order Scheduling](../Distribution/OrderScheduling.md) - Scheduling dashboard
 

@@ -2,8 +2,6 @@
 
 Email Templates manages the template library for automated emails sent by Atlas, including notifications, invoices, reports, and other system-generated communications.
 
-**Permission:** `Pages.Administration.EmailTemplates`
-
 ## Overview
 
 The Email Templates page allows administrators to customize the content, formatting, and design of system-generated emails. Templates support variables for personalization and can be customized per tenant.
@@ -29,4 +27,27 @@ The Email Templates page allows administrators to customize the content, formatt
 * Alert and notification emails
 * Order confirmation emails
 * Scheduled report emails
+
+## Permissions
+
+Access to Email Templates features requires the following permissions:
+
+| Display Name | Description |
+|--------------|-------------|
+| Email Templates | View email template library |
+| Create Email Templates | Create new email templates |
+| Edit Email Templates | Modify existing email templates |
+| Delete Email Templates | Remove email templates |
+
+**Related Permissions:**
+
+| Display Name | Description |
+|--------------|-------------|
+| Languages | Manage localized template versions |
+| Tenant Settings | Configure email server settings |
+
+## Related Documentation
+
+* [Languages](Languages.md) - Template localization
+* [Integrations](Integrations.md) - Email service integration
 

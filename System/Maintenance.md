@@ -2,8 +2,6 @@
 
 Maintenance provides tools for host administrators to perform system maintenance tasks including cache management, database operations, and system health checks.
 
-**Permission:** `Pages.Administration.Host.Maintenance`
-
 ## Overview
 
 The Maintenance page offers various system administration tools for maintaining Atlas performance and health. These tools are typically used by host administrators or IT staff.
@@ -27,4 +25,19 @@ The Maintenance page offers various system administration tools for maintaining 
 * **Health Checks** - Verify system components are functioning
 * **Performance Monitoring** - Check system performance metrics
 * **Database Maintenance** - Database optimization and cleanup tasks
+
+## Permissions
+
+Access to Maintenance features requires the following permissions:
+
+| Display Name | Description |
+|--------------|-------------|
+| Maintenance | View and perform system maintenance tasks |
+
+> **Note:** Maintenance features are typically restricted to host administrators only.
+
+## Related Documentation
+
+* [Audit Logs](AuditLogs.md) - System activity monitoring
+* [Mobile Logs](MobileLogs.md) - Mobile device logs
 

@@ -2,8 +2,6 @@
 
 Treatments are records of chemical applications and services performed at customer locations. Treatment records document what was done, products used, quantities applied, and results observed.
 
-**Permission:** `Pages.Treatments`
-
 ## Overview
 
 The Treatments page displays all treatment records across locations and timeframes. Treatments can be created manually or recorded via mobile devices in the field, capturing detailed information about each service visit.
@@ -18,6 +16,29 @@ The Treatments page displays all treatment records across locations and timefram
 * Capture photos and notes in the field
 * Generate treatment reports
 * Use treatment data for billing and analysis
+
+## Permissions
+
+Access to Treatments features requires the following permissions:
+
+| Display Name | Description |
+|--------------|-------------|
+| Treatments | View treatment records |
+| Create Treatments | Create new treatment records |
+| Edit Treatments | Modify existing treatment records |
+| Delete Treatments | Remove treatment records |
+| Duplicates | View and manage duplicate treatments |
+| Approvals | Approve treatment records for billing |
+
+**Related Permissions:**
+
+| Display Name | Description |
+|--------------|-------------|
+| Locations | View locations (where treatments occur) |
+| Products | View products (used in treatments) |
+| Delivery Orders | View delivery orders (linked to treatments) |
+| Treatment Routes | View routes (treatment organization) |
+| Invoices | View invoices (treatments generate billing) |
 
 ## Related Documentation
 

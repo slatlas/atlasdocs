@@ -2,8 +2,6 @@
 
 Lab QC (Quality Control) Requests manage testing and quality assurance for products, particularly for blended products and incoming inventory. This ensures products meet specifications before being used or delivered to customers.
 
-**Permission:** `Pages.LabQCRequests`
-
 ## Overview
 
 The Lab QC Requests page manages quality control testing requests for products. QC requests can be created for blend batches, incoming shipments, or routine product testing to verify specifications.
@@ -19,6 +17,26 @@ The Lab QC Requests page manages quality control testing requests for products. 
 * Quarantine failed products
 * Generate QC certificates and documentation
 * Maintain QC history and trends
+
+## Permissions
+
+Access to Lab QC Requests features requires the following permissions:
+
+| Display Name | Description |
+|--------------|-------------|
+| Lab QC Requests | View lab QC request records |
+| Create Lab QC Requests | Create new QC requests |
+| Edit Lab QC Requests | Modify QC request details |
+| Delete Lab QC Requests | Remove QC request records |
+
+**Related Permissions:**
+
+| Display Name | Description |
+|--------------|-------------|
+| Blend Batches | View blend batches (QC testing subjects) |
+| Products | View products (tested items) |
+| Shipments | View shipments (incoming QC testing) |
+| Product Inventory | Manage inventory (quarantine failed products) |
 
 ## Related Documentation
 

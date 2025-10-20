@@ -2,8 +2,6 @@
 
 Organization Units provides hierarchical organization structure for managing users, permissions, and data access based on departments, divisions, or business units.
 
-**Permission:** `Pages.Administration.OrganizationUnits`
-
 ## Overview
 
 The Organization Units page allows you to create a hierarchical structure representing your company's organization. Users and data can be assigned to organizational units for permission management and data filtering.
@@ -27,4 +25,27 @@ The Organization Units page allows you to create a hierarchical structure repres
 * Project-based teams
 * Customer-specific access for portal users
 * Hierarchical reporting structures
+
+## Permissions
+
+Access to Organization Units features requires the following permissions:
+
+| Display Name | Description |
+|--------------|-------------|
+| Organization Units | View organization unit records |
+| Manage Organization Unit Tree | Create, edit, delete organization units |
+| Manage Members | Add/remove users from organization units |
+| Manage Roles | Manage roles within organization units |
+
+**Related Permissions:**
+
+| Display Name | Description |
+|--------------|-------------|
+| Users | View/manage users (assigned to org units) |
+| Roles | View/manage roles (org unit roles) |
+
+## Related Documentation
+
+* [Users](Users.md) - User account management
+* [Roles](../Roles/Index.md) - Role and permission management
 

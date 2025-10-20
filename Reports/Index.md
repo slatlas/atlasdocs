@@ -2,8 +2,6 @@
 
 Reports provides a library of pre-built and custom reports for analyzing operations, production, treatments, billing, and other business data. This module enables data-driven decision making across all areas of the business.
 
-**Permission:** `Pages.Reports`
-
 ## Overview
 
 The Reports module offers comprehensive reporting capabilities covering all aspects of Atlas operations. Reports can be filtered, scheduled, exported, and customized to meet specific business needs.
@@ -46,20 +44,31 @@ Reports can be scheduled to run automatically:
 * Saved to document repository
 * Alert notifications on specific conditions
 
-## Lookup Tables
+## Permissions
 
-### Report Types
-**Permission:** `Pages.Administration.ReportTypes`  
+Access to Reports features requires the following permissions:
 
-Report Types categorize reports by purpose and content (e.g., Operational, Financial, Regulatory, Customer-Facing) for organization and access control.
+| Display Name | Description |
+|--------------|-------------|
+| Reports | View and run reports |
+| Report Builder | Create and edit custom reports |
+| Schedule Reports | Schedule automatic report generation |
+| Report Types | Manage report type classifications |
+| Report Time Periods | Manage report time period definitions |
+| Report Categories | Manage report category groupings |
 
-### Report Time Periods
-**Permission:** `Pages.Administration.ReportTimePeriods`  
+**Related Permissions:**
 
-Report Time Periods define standard date ranges for reports (e.g., Last 7 Days, Month to Date, Last Month, Quarter to Date, Year to Date, Custom Range).
+| Display Name | Description |
+|--------------|-------------|
+| Treatments | Access treatment data in reports |
+| Delivery Orders | Access delivery data in reports |
+| Invoices | Access billing data in reports |
+| Locations | Access location data in reports |
+| Products | Access product data in reports |
+| Lab Orders | Access lab data in reports |
 
-### Report Categories
-**Permission:** `Pages.Administration.ReportCategories`  
+## Related Documentation
 
-Report Categories organize reports into logical groupings (e.g., Production, Billing, Inventory, Operations, Lab) for easier browsing and discovery.
+* [Dashboard](../Dashboard/Index.md) - Dashboard widgets and visualizations
 

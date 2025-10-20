@@ -2,8 +2,6 @@
 
 Location Tank Inventory tracks product quantities stored at customer locations, including consignment inventory and tank levels. This provides visibility into customer site inventory for replenishment planning and usage monitoring.
 
-**Permission:** `Pages.Treatments`
-
 ## Overview
 
 The Location Tank Inventory page displays product inventory levels at customer locations. This includes both consignment inventory owned by your company and customer-owned inventory that you monitor for service planning.
@@ -18,4 +16,27 @@ The Location Tank Inventory page displays product inventory levels at customer l
 * Record tank readings and measurements
 * Generate replenishment orders automatically
 * Track historical usage patterns
+
+## Permissions
+
+Access to Location Tank Inventory features requires the following permissions:
+
+| Display Name | Description |
+|--------------|-------------|
+| Treatments | View location tank inventory records |
+
+**Related Permissions:**
+
+| Display Name | Description |
+|--------------|-------------|
+| Locations | View locations (tank locations) |
+| Products | View products (inventoried items) |
+| Consignment Locations | Manage consignment inventory |
+| Delivery Orders | Create replenishment orders |
+
+## Related Documentation
+
+* [Locations](../AreaManagement/Locations.md) - Location management
+* [Consignment Locations](../AreaManagement/ConsignmentLocations.md) - Consignment tracking
+* [Product Inventory](ProductInventory.md) - Warehouse inventory
 

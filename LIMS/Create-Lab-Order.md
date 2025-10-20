@@ -48,3 +48,35 @@ Select the **+** menu to open the create form.  Select the required fields and c
 
 
 > The **Save** button will highlight when all required fields are set.  Saving will add the lab order to the grid list and assign it the next incremental Sample Id.  Typically the Sample Id is a numeric identifier containing the year and number of lab order request for that calendar year.
+
+## Permissions
+
+Access to Lab Orders features requires the following permissions:
+
+| Display Name | Description |
+|--------------|-------------|
+| Lab Orders | View lab order records |
+| Create Lab Orders | Create new lab orders |
+| Edit Lab Orders | Modify lab order details |
+| Delete Lab Orders | Remove lab order records |
+| Check In Lab Orders | Check in received lab orders |
+| Approve Lab Orders | Approve lab orders for testing |
+| Complete Lab Orders | Mark lab orders as complete |
+| Cancel Lab Orders | Cancel lab orders |
+| Report Lab Orders | Generate lab order reports |
+
+**Related Permissions:**
+
+| Display Name | Description |
+|--------------|-------------|
+| Locations | View locations (sample sources) |
+| Customers | View customers (sample requesters) |
+| Personnel | View personnel (requesters and lab techs) |
+| Products | View products (treated products) |
+| Lab Results | View/enter test results |
+
+## Related Documentation
+
+* [LIMS Management Dashboard](LIMS-Management-Dashboard.md) - Lab order management
+* [Lab Order Workflow](Index.md) - Complete lab order process
+* [Lab Results](Create-Lab-Results.md) - Entering test results

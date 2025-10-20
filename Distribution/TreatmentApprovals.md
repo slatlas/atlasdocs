@@ -2,8 +2,6 @@
 
 Treatment Approvals provide a workflow for reviewing and approving treatment routes before they are executed. This ensures routes are reviewed for accuracy, efficiency, and customer requirements before field deployment.
 
-**Permission:** `Pages.TreatementRouteApprovals`
-
 ## Overview
 
 The Treatment Approvals page displays routes that require review and approval. Supervisors or operations managers can review route details, make adjustments, and approve routes for execution.
@@ -17,4 +15,29 @@ The Treatment Approvals page displays routes that require review and approval. S
 * Request route modifications
 * Track approval history
 * Configure approval workflows and requirements
+
+## Permissions
+
+Access to Treatment Approvals features requires the following permissions:
+
+| Display Name | Description |
+|--------------|-------------|
+| Treatment Route Approvals | View treatment route approval dashboard |
+| Create Treatment Route Approvals | Create approval requests |
+| Edit Treatment Route Approvals | Modify approval requests |
+| Delete Treatment Route Approvals | Remove approval requests |
+| Filter | Filter approval views by criteria |
+
+**Related Permissions:**
+
+| Display Name | Description |
+|--------------|-------------|
+| Treatment Routes | View routes (routes requiring approval) |
+| Locations | View locations (route stops) |
+| Products | View products (route product assignments) |
+
+## Related Documentation
+
+* [Treatment Routes](TreatmentRoutes.md) - Routes requiring approval
+* [Route Tracker](RouteTracker.md) - Monitor approved route execution
 

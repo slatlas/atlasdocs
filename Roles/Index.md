@@ -22,3 +22,26 @@ Since roles are used to group permissions, we can set permissions of a role whil
 
 *Note that not all permissions shown in the figure above.*
 
+## Permissions
+
+Access to Role Management features requires the following permissions:
+
+| Display Name | Description |
+|--------------|-------------|
+| Roles | View role records |
+| Create Roles | Create new roles |
+| Edit Roles | Modify existing roles |
+| Delete Roles | Remove roles |
+
+**Related Permissions:**
+
+| Display Name | Description |
+|--------------|-------------|
+| Users | View/manage users (assign roles to users) |
+| Organization Units | Manage roles within organization units |
+
+## Related Documentation
+
+* [Users](../System/Users.md) - User account management
+* [Organization Units](../System/OrganizationUnits.md) - Organizational structure
+

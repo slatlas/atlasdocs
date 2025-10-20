@@ -2,8 +2,6 @@
 
 Users manages system user accounts, authentication, and access to Atlas. This module is used to create accounts, assign roles and permissions, and manage user settings.
 
-**Permission:** `Pages.Administration.Users`
-
 ## Overview
 
 The Users page provides comprehensive user account management for Atlas. Administrators can create new users, assign roles, manage permissions, and configure user-specific settings.
@@ -19,6 +17,28 @@ The Users page provides comprehensive user account management for Atlas. Adminis
 * Track user login history
 * Configure two-factor authentication
 * Set user preferences and defaults
+
+## Permissions
+
+Access to Users features requires the following permissions:
+
+| Display Name | Description |
+|--------------|-------------|
+| Users | View user accounts |
+| Create Users | Create new user accounts |
+| Edit Users | Modify user account details |
+| Delete Users | Remove user accounts |
+| Change Permissions | Manage user permissions |
+| Impersonation | Impersonate other users for support |
+| Unlock User | Unlock locked user accounts |
+
+**Related Permissions:**
+
+| Display Name | Description |
+|--------------|-------------|
+| Roles | View/manage roles (assign to users) |
+| Personnel | View/link personnel records to users |
+| Organization Units | Assign users to organizational units |
 
 ## Related Documentation
 

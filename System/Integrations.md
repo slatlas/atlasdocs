@@ -2,8 +2,6 @@
 
 Integrations manages connections between Atlas and external systems such as accounting software, SCADA systems, production databases, and other third-party applications.
 
-**Permission:** `Pages.Administration.Tenant.Settings`
-
 ## Overview
 
 The Integrations page allows administrators to configure and manage connections to external systems. Integrations enable data exchange between Atlas and other business systems for streamlined operations.
@@ -36,4 +34,27 @@ The Integrations page allows administrators to configure and manage connections 
 * **Operations** - SCADA, production, and field systems
 * **Communication** - Email, SMS, and notification services
 * **Data Sources** - External data feeds and databases
+
+## Permissions
+
+Access to Integrations features requires the following permissions:
+
+| Display Name | Description |
+|--------------|-------------|
+| Tenant Settings | View and manage integration configurations |
+
+> **Note:** Integration management is typically restricted to tenant administrators and IT staff.
+
+**Related Permissions:**
+
+| Display Name | Description |
+|--------------|-------------|
+| QuickBooks Authentication Sessions | Manage QuickBooks connections |
+| Audit Logs | View integration activity logs |
+
+## Related Documentation
+
+* [Tenant Settings](../Web/admin/settings.md) - General tenant configuration
+* [QuickBooks Authentication](QBAuthenticationSessions.md) - QuickBooks setup
+* [Audit Logs](AuditLogs.md) - Integration activity monitoring
 

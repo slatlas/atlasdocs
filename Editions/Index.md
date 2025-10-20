@@ -2,8 +2,6 @@
 
 Editions define feature packages that can be assigned to tenants, controlling which functionality is available to each organization. Editions enable a tiered subscription model where different tenants can have access to different features based on their subscription level.
 
-**Permission:** `Pages.Editions`
-
 ## Overview
 
 The Editions page allows host administrators to create and manage feature packages. Each edition defines which features are enabled and can include usage limits for certain functionality.
@@ -28,4 +26,28 @@ Editions are assigned to tenants to control their available features. When a ten
 * Usage limit configuration
 * Flexible subscription tiers
 * Easy feature rollout management
+
+## Permissions
+
+Access to Editions features requires the following permissions:
+
+| Display Name | Description |
+|--------------|-------------|
+| Editions | View edition definitions |
+| Create Editions | Create new editions |
+| Edit Editions | Modify existing editions |
+| Delete Editions | Remove editions |
+| Manage Edition Features | Configure features within editions |
+
+> **Note:** Edition management is restricted to host administrators only.
+
+**Related Permissions:**
+
+| Display Name | Description |
+|--------------|-------------|
+| Tenants | Assign editions to tenants |
+
+## Related Documentation
+
+* [Tenants](../Tenants/Index.md) - Tenant management and edition assignment
 

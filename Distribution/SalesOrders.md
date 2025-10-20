@@ -2,8 +2,6 @@
 
 Sales Orders document customer purchases of products and services. Sales orders are the starting point for the order-to-cash process and are used to create delivery orders and generate invoices.
 
-**Permission:** `Pages.SalesOrders`
-
 ## Overview
 
 The Sales Orders page manages all customer orders including one-time purchases, recurring service orders, and contract-based deliveries. Each sales order specifies products, quantities, pricing, and delivery requirements.
@@ -18,6 +16,32 @@ The Sales Orders page manages all customer orders including one-time purchases, 
 * Track order fulfillment status
 * Manage order changes and cancellations
 * Apply customer-specific pricing and discounts
+
+## Permissions
+
+Access to Sales Orders features requires the following permissions:
+
+| Display Name | Description |
+|--------------|-------------|
+| Sales Orders | View sales order records |
+| Create Sales Orders | Create new sales orders |
+| Edit Sales Orders | Modify existing sales orders |
+| Delete Sales Orders | Remove sales order records |
+| Swap Products | Swap products on existing sales orders |
+| Sales Order Items | View sales order line items |
+| Create Sales Order Items | Add products to sales orders |
+| Edit Sales Order Items | Modify sales order line items |
+| Delete Sales Order Items | Remove products from sales orders |
+
+**Related Permissions:**
+
+| Display Name | Description |
+|--------------|-------------|
+| Customers | View customers (required to create orders) |
+| Locations | View locations (required to specify delivery location) |
+| Products | View products (required to add items to orders) |
+| Price Schedules | View pricing (used for order pricing) |
+| Delivery Orders | View/create delivery orders from sales orders |
 
 ## Related Documentation
 

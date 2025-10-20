@@ -2,8 +2,6 @@
 
 Invoices document charges for products and services provided to customers. This module manages invoice creation, formatting, delivery, and payment tracking.
 
-**Permission:** `Pages.Invoices`
-
 ## Overview
 
 The Invoices page manages all customer invoices from creation through payment. Invoices can be generated automatically from completed work or created manually, and support various formats and delivery methods.
@@ -31,6 +29,32 @@ The Invoices page manages all customer invoices from creation through payment. I
 * Payment terms
 * Invoice notes and attachments
 * Custom fields based on invoice type
+
+## Permissions
+
+Access to Invoices features requires the following permissions:
+
+| Display Name | Description |
+|--------------|-------------|
+| Invoices | View invoice records |
+| Create Invoices | Create new invoices |
+| Edit Invoices | Modify existing invoices |
+| Delete Invoices | Remove invoice records |
+| Ready To Bill | View unbilled activities ready for invoicing |
+| Invoice Items | View invoice line items |
+| Create Invoice Items | Add line items to invoices |
+| Edit Invoice Items | Modify invoice line items |
+| Delete Invoice Items | Remove line items from invoices |
+
+**Related Permissions:**
+
+| Display Name | Description |
+|--------------|-------------|
+| Customers | View customers (invoice recipients) |
+| Delivery Orders | View completed deliveries (billing source) |
+| Treatments | View completed treatments (billing source) |
+| Sales Orders | View orders (billing reference) |
+| Price Schedules | View pricing (invoice rates) |
 
 ## Related Documentation
 

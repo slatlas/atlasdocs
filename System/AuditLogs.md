@@ -2,8 +2,6 @@
 
 Audit Logs provides a comprehensive record of all system changes, user actions, and data modifications for compliance, security, and troubleshooting purposes.
 
-**Permission:** `Pages.Administration.AuditLogs`
-
 ## Overview
 
 The Audit Logs page displays a detailed history of system activities including who made changes, what was changed, when it occurred, and the values before and after each change.
@@ -38,4 +36,23 @@ Audit logs support compliance requirements for:
 * GDPR
 * Industry-specific regulations
 * Internal audit requirements
+
+## Permissions
+
+Access to Audit Logs features requires the following permissions:
+
+| Display Name | Description |
+|--------------|-------------|
+| Audit Logs | View audit log records and system activity history |
+
+**Related Permissions:**
+
+| Display Name | Description |
+|--------------|-------------|
+| Users | View users (audit log actors) |
+
+## Related Documentation
+
+* [User Management](../Web/admin/usermanagement.md) - Managing users
+* [Security Settings](../Web/admin/settings.md) - Security configuration
 
