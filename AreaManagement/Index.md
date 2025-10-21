@@ -34,3 +34,15 @@ For configuration and reference data used by Area Management, see [Area Manageme
 4. Configure [Personnel](Personnel.md) for field staff assignments
 5. Set up [Batteries](Batteries.md) to group related locations
 
+## Key Features
+
+Area Management provides centralized tools for organizing your entire operational structure with support for:
+* Over 75,000 location records
+* 14,000+ lease properties
+* 1,200+ customer organizations
+* 4,000+ battery groupings
+* 700+ personnel records
+* Advanced filtering and search capabilities
+* Bulk import/export functionality
+* Map-based visualization for locations
+

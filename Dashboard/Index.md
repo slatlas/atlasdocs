@@ -13,6 +13,15 @@ The Portal Dashboard is designed for customer portal users to view location data
 ### Tenant Dashboard
 The Tenant Dashboard is the main operational dashboard for internal users, displaying production metrics, orders, treatments, and day-to-day operational information.
 
+![Main Dashboard](../images/Dashboard-Main.PNG)
+
+The Tenant Dashboard includes:
+* **Actions Menu** - Quick access to frequently used features (Delivery Orders, Lab Orders, Search, Reports)
+* **Your Sales Summary** - Visual chart showing sales data by customer/location over time
+* **Recents** - Recent activity including lab orders, customers, leases, and locations
+* **Lab Turnaround Time** - Monthly metrics for lab processing times
+* **Top Locations** - Map view of key locations with geographic distribution
+
 ## Customization
 
 All dashboards can be customized to display the widgets and information most relevant to your workflow. See [Dashboard Configuration](../Web/dashboard/customizing.md) for details on customizing your dashboard layout.

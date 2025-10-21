@@ -6,6 +6,15 @@ Field Alerts are notifications and warnings about conditions, issues, or events 
 
 The Field Alerts page displays active alerts and notifications for locations and operations. Alerts can be created manually by field staff or automatically generated based on system conditions and thresholds.
 
+![Field Alerts List](../images/AreaManagement-FieldAlerts.PNG)
+
+The Field Alerts grid displays:
+* **Name** - Alert name/identifier
+* **Message** - Alert description and details
+* **End date** - Alert expiration or resolution date
+
+The interface supports creating new alerts, editing existing alerts, and exporting to Excel. Field alerts help operations staff and field personnel quickly identify and respond to important conditions or issues at locations.
+
 ## Key Features
 
 * View active field alerts and warnings

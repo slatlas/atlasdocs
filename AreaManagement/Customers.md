@@ -6,6 +6,18 @@ Customers are the organizations or companies that you provide services to. The C
 
 The Customers page displays a list of all customer organizations in the system. Each customer can have multiple associated entities including customer projects, leases, locations, and contacts. Customer records are used throughout Atlas for billing, reporting, and operational tracking.
 
+![Customers List](../images/AreaManagement-Customers.PNG)
+
+The Customers grid displays all customer records with the following information:
+* **Type** - Customer classification (Company, Individual, etc.)
+* **Name** - Customer organization name
+* **Account Id** - Unique customer identifier
+* **Title** - Contact person title
+* **Email address** - Primary contact email
+* **Primary address** - Physical address
+* **City, State, Zip** - Location information
+* **Is Active** - Current status indicator
+
 ## Key Features
 
 * Create and manage customer organizations

@@ -6,6 +6,19 @@ Batteries are groupings of related well locations, typically representing wells 
 
 The Batteries page manages battery groupings of well locations. Batteries are used to organize locations that share production facilities, pipelines, or operational characteristics, making it easier to manage related wells as a group.
 
+![Batteries List](../images/AreaManagement-Batteries.PNG)
+
+The Batteries grid displays all battery records with the following information:
+* **Name** - Battery name/identifier
+* **Ship To** - Delivery identifier code
+* **Lease** - Associated lease name
+* **Alias** - Alternative battery name
+* **Is Active** - Current status indicator
+* **Polygon** - Geographic boundary definition (with "Show Coords" option)
+* **Code** - Internal battery code
+
+The system manages 4,154 battery groupings with support for creating, editing, exporting to Excel, and advanced filtering. Examples include SSU BATTERY, BSB BATTERY, TSE BATTERY, and others organized by lease and geographical area.
+
 ## Key Features
 
 * Create and manage battery groupings

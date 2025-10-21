@@ -6,6 +6,10 @@ Reports provides a library of pre-built and custom reports for analyzing operati
 
 The Reports module offers comprehensive reporting capabilities covering all aspects of Atlas operations. Reports can be filtered, scheduled, exported, and customized to meet specific business needs.
 
+![Reports Page](../images/Reports-Main.PNG)
+
+The Reports page provides access to the report catalog where users can create custom reports, manage report definitions, and configure report parameters. The interface includes options to export reports to Excel and create new custom report definitions.
+
 ## Key Features
 
 * Browse report catalog by category

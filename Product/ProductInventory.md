@@ -12,8 +12,9 @@ The Product Inventory Dashboard provides comprehensive inventory visibility with
 * **Shipments** - Inbound and outbound shipment tracking
 * **Calendar** - Schedule view of inventory activities
 
-![Product Inventory Dashboard](../images/ProductInventory-Dashboard.PNG)
-*Product Inventory Dashboard showing stock alerts, inventory levels, and charts*
+![Product Inventory Dashboard](../images/Product-Inventory.PNG)
+
+The Product Inventory Dashboard displays critical inventory metrics and detailed product-level information.
 
 ## Dashboard Tab
 

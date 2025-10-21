@@ -6,6 +6,26 @@ Sales Orders document customer purchases of products and services. Sales orders 
 
 The Sales Orders page manages all customer orders including one-time purchases, recurring service orders, and contract-based deliveries. Each sales order specifies products, quantities, pricing, and delivery requirements.
 
+![Sales Orders List](../images/Distribution-SalesOrders.PNG)
+
+The Sales Orders grid displays all customer orders with:
+* **Select all** - Checkbox for bulk operations
+* **Status** - Color-coded order status (Ready for Billing shown)
+* **Order number** - Unique sales order identifier
+* **Customer** - Customer organization name
+* **Created By** - User who created the order
+* **Date** - Order creation date
+* **Ordered** - Count of ordered items
+* **Invoiced** - Count of invoiced items
+* **Approved** - Approval status
+
+The interface includes action buttons for:
+* **MassApprove** - Bulk approval of multiple orders
+* **Create new sales order** - Add new customer orders
+* **Templates** - Use pre-configured order templates
+
+The system manages 22,854 sales orders with advanced filtering capabilities and bulk operations support.
+
 ## Key Features
 
 * Create sales orders for customers

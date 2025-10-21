@@ -2,7 +2,9 @@
 
 The [LIMS Management Dashboard](LIMS-Management-Dashboard.md) is used by lab technicians and admins to process request and approve results through desired workflow.
 
-![image-logo](../images/LIMSGrid.PNG)
+![LIMS Management Dashboard](../images/LIMS-Dashboard.PNG)
+
+The dashboard provides comprehensive lab order management with 223,185 total orders tracked across multiple status levels. Key features include priority-based filtering (Critical, Standard, Rush), batch operations, and real-time status tracking from request through reporting.
 
 <br>
 <br>

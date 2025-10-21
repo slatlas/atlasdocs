@@ -31,6 +31,15 @@ For configuration and reference data used by Distribution, see [Distribution Loo
 5. Track progress with [Order Tracker](OrderTracker.md) and [Route Tracker](RouteTracker.md)
 6. Record completed [Treatments](Treatments.md) for billing
 
+## System Capacity
+
+The Distribution module manages high-volume operations with:
+* Over 49,000 delivery orders
+* 22,000+ sales orders
+* 99,000+ treatment records (nearly 2 million treatment items)
+* Real-time status tracking and updates
+* Multi-status workflow management (Unscheduled, Scheduled, Ready To Bill, Completed, On Hold)
+
 ## Mobile Integration
 
 Distribution features integrate with the Atlas mobile app for field execution. See [Mobile Documentation](../Mobile/Index.md) for details on:

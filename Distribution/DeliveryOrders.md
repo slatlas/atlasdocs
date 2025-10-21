@@ -6,6 +6,33 @@ Delivery Orders represent scheduled deliveries of products to customer locations
 
 The Delivery Orders page provides a dashboard for managing all delivery orders in the system. Orders can be filtered by status, date, route, or location to help dispatchers and operations staff coordinate deliveries efficiently.
 
+![Delivery Order Dashboard](../images/Distribution-DeliveryOrders.PNG)
+
+The Delivery Order Dashboard displays:
+* **Status Tabs** - Quick filters by status:
+  - All Orders (49,114 total)
+  - Unscheduled (10)
+  - Scheduled (144)
+  - Ready To Bill (181)
+  - Completed (47,632)
+  - On Hold (34)
+  - Summary view
+* **Filter Options** - Priority, Status, and Batch filters for refined searching
+* **Order Grid** - Comprehensive list showing:
+  - Status (color-coded: Scheduled, Requested, Invoiced)
+  - Type (Consignment, Billable)
+  - Delivery type (General)
+  - Customer name
+  - Order number
+  - Order date
+  - Requested date
+  - Schedule Range
+  - Created By
+  - Ordered, Scheduled, Treated, Exception, and Invoiced counts
+* **Action Buttons** - New Order, Mass Order, Merge, Change Status, Templates
+
+The dashboard provides powerful tools for dispatchers and operations staff to coordinate deliveries, track order progress, and manage exceptions.
+
 ## Key Features
 
 * Create delivery orders from sales orders
