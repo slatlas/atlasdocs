@@ -6,6 +6,25 @@ Locations represent individual well sites or facilities where treatments, sampli
 
 The Locations page displays all well locations and facilities in a map view or grid format. Each location contains detailed information including GPS coordinates, production data, treatment history, equipment details, and operational status.
 
+![Locations Grid](../images/AreaManagement-Locations.PNG)
+
+The Locations interface includes:
+* **Location Search Tab** - Advanced search and filtering for locations
+* **Map Tab** - Geographic visualization of locations
+* **Location Grid** - Detailed list with columns for:
+  - Location name
+  - Customer
+  - Lease
+  - Type (Battery, Sample Site, Producing Well, etc.)
+  - Is Active status
+  - Ship To code
+  - Alias
+  - API number
+  - Code
+  - Tank Size
+
+The system manages over 75,000 location records with support for bulk operations, advanced filtering, and Excel export. Multiple actions are available including edit, copy, and custom operations.
+
 ## Key Features
 
 * View locations on an interactive map

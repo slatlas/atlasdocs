@@ -6,6 +6,28 @@ Vendors are external companies or suppliers that provide products, services, or 
 
 The Vendors page maintains a directory of supplier companies and service providers. Vendor records include contact information, payment terms, and are used for purchase order creation and supplier management.
 
+![Vendors List](../images/AreaManagement-Vendors.PNG)
+
+The Vendors grid includes columns for:
+* **Name** - Vendor company name
+* **Primary address** - Main business address
+* **Secondary address** - Additional address
+* **City, State, Zip** - Location information
+* **County** - County location
+* **Country** - Country
+* **Email address** - Primary contact email
+* **Title** - Contact person title
+* **Area** - Operational area
+* **Description** - Vendor description
+* **Phone** - Contact phone number
+* **Website** - Vendor website
+* **Is company** - Company vs individual indicator
+* **Legal Name** - Official business name
+* **Alias** - Alternative name
+* **Is Active** - Current status
+
+The interface supports creating new vendors, editing existing records, and exporting to Excel.
+
 ## Key Features
 
 * Create and manage vendor records

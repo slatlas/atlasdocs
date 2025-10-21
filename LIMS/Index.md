@@ -21,4 +21,14 @@ The [User Dashboard](../Tutorials/User-Dashboard-Edit.md) comes with a varity of
 ## LIMS Management Dashboard
 The [LIMS Management Dashboard](LIMS-Management-Dashboard.md) is used by lab technicians and admins to process request and approve results through desired workflow.
 
-![image-lims-grid](../images/LIMSGrid.PNG)
+![LIMS Dashboard](../images/LIMS-Dashboard.PNG)
+
+The LIMS Dashboard manages 223,185 total lab orders with status tabs:
+* **All Orders** (223,185) - Complete list of all lab orders
+* **Requested** (810) - New lab requests awaiting processing
+* **Processing** (841) - Orders currently being tested
+* **Completed** (0) - Tests completed, awaiting approval
+* **Approved** (0) - Results approved by lab technician
+* **Reported** (225,079) - Results reported and sent to field personnel
+
+The dashboard displays comprehensive order information including status, limits, test type, sample ID, priority level (Critical, Standard, Rush), location, customer, product, requested date, and assigned personnel.

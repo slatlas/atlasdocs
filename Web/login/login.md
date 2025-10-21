@@ -2,7 +2,14 @@
 
 Default url for login is https://[CompanyName].sourcelogicatlas.com/account/login
 
-![login.PNG](../../images/login.PNG)
+![Login Page](../../images/Login-Page.PNG)
+
+The Atlas login page provides access to the system with the following elements:
+* **Email address field** - Enter your company email address
+* **Password field** - Enter your password (with show/hide toggle)
+* **Remember me checkbox** - Keep you logged in across sessions
+* **Forgot your password?** link - Reset password if needed
+* **Log in button** - Submit credentials to access the system
 
 Use your **Company** email and password for login. 
 

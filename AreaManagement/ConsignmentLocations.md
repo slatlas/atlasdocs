@@ -6,6 +6,14 @@ Consignment Locations are sites where inventory is stored on-site for customer u
 
 The Consignment Locations page manages locations where consignment inventory arrangements are in place. These locations maintain on-site inventory that is owned by the supplier until consumed by the customer.
 
+![Consignment Locations List](../images/AreaManagement-ConsignmentLocations.PNG)
+
+The Consignment Locations grid displays:
+* **Name** - Consignment location identifier
+* **Polygon** - Geographic boundary definition
+
+The system manages 66 consignment locations with support for creating, editing, exporting to Excel, and filtering. These locations represent sites where inventory is stored on-site and billing occurs only when product is consumed.
+
 ## Key Features
 
 * Designate locations as consignment sites

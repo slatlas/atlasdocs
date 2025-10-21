@@ -6,6 +6,20 @@ Leases represent the legal properties or land agreements where well locations ar
 
 The Leases page manages lease properties including lease codes, names, associated areas, and related metadata. Leases are a key organizational entity used to group locations and track production and treatments by property.
 
+![Leases List](../images/AreaManagement-Leases.PNG)
+
+The Leases grid displays all lease records with the following information:
+* **Lease** - Lease name/identifier
+* **Ship To** - Delivery identifier code
+* **Customer** - Customer organization associated with the lease
+* **Area** - Geographical area where the lease is located
+* **Alias** - Alternative lease name or code
+* **Is Active** - Current status indicator
+* **Polygon** - Geographic boundary definition (with "Show Coords" option for viewing coordinates)
+* **Code** - Internal lease code
+
+The system manages over 14,000 lease properties with support for filtering, searching, and bulk operations.
+
 ## Key Features
 
 * Create and manage lease properties

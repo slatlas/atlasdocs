@@ -6,6 +6,44 @@ Products define the catalog of chemicals, equipment, services, and other items t
 
 The Products page displays your complete product catalog. Each product includes detailed specifications, inventory settings, pricing information, and classifications that control how the product is managed throughout the system.
 
+![Products Page](../images/Products-Page.PNG)
+
+The Products page displays a searchable grid with product information including Name, Type, Category, Service, Description, Quantity on hand, Product number, Color, Measurement, Volume, Weight, and hazard information.
+
+## Product Detail View
+
+Click on any product name to view detailed product information:
+
+![Product Details Tab](../images/ProductView-DetailsTab.PNG)
+
+The Product Detail view provides access to comprehensive product information through multiple tabs:
+* **Details** - Basic product information, product number, type, measurement, and hazard details
+* **Pricing** - Customer-specific pricing rules and base pricing
+* **QC** - Quality control limits and test results
+
+### Quality Control (QC) Tab
+
+The QC tab manages quality testing requirements and limits for the product:
+
+![Product QC Tab](../images/ProductView-QCTab.PNG)
+
+The QC tab includes:
+
+**Field type limits** - Define acceptable test value ranges:
+* **Field type** - The specific test or measurement (e.g., pH, viscosity, specific gravity)
+* **Lab type** - Type of lab analysis required
+* **StreamType** - Product stream classification (oil, water, gas)
+* **Product** - Associated product
+* **KPI** - Key Performance Indicator designation
+* **Lower limit** - Minimum acceptable value
+* **Upper limit** - Maximum acceptable value
+* **RedLimit** - Critical threshold requiring immediate action
+* **YellowLimit** - Warning threshold for attention
+
+**QC Results** - Displays historical QC test results for this product, showing pass/fail status and specific test values against the defined limits.
+
+These QC limits tie directly to [Lab QC Requests](LabQCRequests.md), where test results are compared against these thresholds to determine if a product batch passes or fails quality control testing.
+
 ## Key Features
 
 * Create and manage product records

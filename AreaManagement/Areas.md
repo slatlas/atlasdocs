@@ -6,6 +6,14 @@ Areas represent geographical or operational regions used to organize leases and 
 
 The Areas page manages geographical or operational regions within your organization. Areas serve as containers for leases and locations, making it easier to organize work by territory, field, or operational district.
 
+![Areas List](../images/AreaManagement-Areas.PNG)
+
+The Areas grid displays all area records with:
+* **Area** - Area name (e.g., Dollarhide, Tatia, TEXAS, SUNDOWN, LEVELLAND)
+* **Is Active** - Current status indicator
+
+The system manages 766 operational areas with support for creating, editing, exporting to Excel, and filtering. Areas are used to organize leases and locations by geographical or operational region, making it easier to manage work by territory or field.
+
 ## Key Features
 
 * Create and manage operational areas
