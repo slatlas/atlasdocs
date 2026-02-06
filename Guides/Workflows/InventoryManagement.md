@@ -58,11 +58,13 @@ Optimize Stock Levels → Report Inventory Value
 
 5. **Review Low Stock Alerts**
    * System highlights products below minimum levels (red/yellow indicators)
+   * For proactive planning, use the **Forecasting** tab (Product Inventory → Forecasting) to see risk analysis, stockout predictions, and recommended reorder quantities. See [Inventory Forecasting](InventoryForecasting.md).
    * Review reorder point settings
    * Check lead time for reordering
 
 6. **Calculate Reorder Quantity**
    * Consider: current usage rate, lead time, minimum order quantity
+   * Use the Forecasting tab’s **Recommended Reorder Quantity** and risk level as a guide
    * Check for pending purchase orders
    * Account for seasonal demand fluctuations
 
@@ -79,7 +81,7 @@ Optimize Stock Levels → Report Inventory Value
    * Inventory updates automatically upon receipt
 
 9. **Track Outbound Inventory**
-   * Inventory depletes when field personnel complete treatments
+   * Inventory depletes when field personnel complete treatments. Treatments can automatically deduct warehouse inventory when created (without a shipment/BOL); if a shipment is later added, the system reverses that deduction to avoid double-counting. See [Treatments](../../Distribution/Treatments.md).
    * Deliveries to customers reduce warehouse inventory
    * Transfers between warehouses tracked automatically
 
@@ -185,6 +187,9 @@ Optimize Stock Levels → Report Inventory Value
 * [Product Receiving and Shipments](ReceivingShipments.md) - Adds to inventory
 * [Product Setup](ProductSetup.md) - Product configuration
 
+**Proactive Planning:**
+* [Inventory Forecasting](InventoryForecasting.md) - Risk analysis, demand forecasting, and reorder recommendations (Forecasting tab)
+
 **Downstream Processes:**
 * [Field Treatment Execution](FieldTreatments.md) - Depletes inventory
 * [Delivery Order Management](DeliveryOrders.md) - Allocates inventory
@@ -193,4 +198,5 @@ Optimize Stock Levels → Report Inventory Value
 **Related Documentation:**
 * [Product Management Overview](../../Product/Index.md)
 * [Location Tank Inventory](../../Product/LocationTankInventory.md) - Customer site inventory
+* [Inventory Forecasting](InventoryForecasting.md) - Forecasting tab, risk analysis, and reorder recommendations
 

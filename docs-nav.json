@@ -90,6 +90,10 @@
               "path": "Guides/Workflows/InventoryManagement.md"
             },
             {
+              "text": "Inventory Forecasting",
+              "path": "Guides/Workflows/InventoryForecasting.md"
+            },
+            {
               "text": "Receiving Shipments",
               "path": "Guides/Workflows/ReceivingShipments.md"
             }

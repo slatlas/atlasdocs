@@ -42,6 +42,26 @@ The system manages 99,558 treatments with nearly 2 million individual treatment 
 * Generate treatment reports
 * Use treatment data for billing and analysis
 
+## Inventory Impact
+
+Creating a treatment can automatically deduct product from warehouse inventory. This keeps warehouse stock in sync with field usage when treatments are recorded before or without a shipment (e.g., from a truck or tank that is not yet tied to a shipment/BOL).
+
+**When warehouse inventory is deducted**
+
+The system deducts warehouse inventory when all of the following are true:
+
+* The treatment is **not** a usage-type treatment
+* **No shipment/BOL** exists for the treatment (no shipment item is linked)
+* A **warehouse** is associated with the treatment
+* **Volume** is greater than zero
+* The treatment is linked to an **order or schedule** (e.g., delivery order, treatment schedule)
+
+The deduction appears as a **Treatment Deduction** transaction in [Product Inventory](../Product/ProductInventory.md) (Activity tab).
+
+**Smart reversal when a shipment is added**
+
+If a shipment (and shipment item) is later created for the same treatment (e.g., when a BOL is entered), the system reverses the earlier treatment-based deduction before applying the shipment deduction. This prevents double-counting so inventory is only reduced once.
+
 ## Permissions
 
 Access to Treatments features requires the following permissions:
@@ -67,6 +87,7 @@ Access to Treatments features requires the following permissions:
 
 ## Related Documentation
 
+* [Product Inventory](../Product/ProductInventory.md) - Inventory levels and transaction history (including treatment deductions)
 * [Mobile - Treating](../Mobile/Treating.md) - Record treatments on mobile devices
 * [Mobile - Treatments](../Mobile/Treatments.md) - View treatment history on mobile
 
