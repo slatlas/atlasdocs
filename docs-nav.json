@@ -219,6 +219,10 @@
           "path": "Distribution/OrderTracker.md"
         },
         {
+          "text": "Route to Invoice Workflow",
+          "path": "Distribution/RouteToInvoiceWorkflow.md"
+        },
+        {
           "text": "Treatments",
           "path": "Distribution/Treatments.md"
         },

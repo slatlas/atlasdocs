@@ -13,6 +13,7 @@ The Distribution module provides comprehensive tools for managing the entire ord
 * [Order Scheduling](OrderScheduling.md) - Schedule treatments and deliveries
 * [Sales Orders](SalesOrders.md) - Create and manage sales orders
 * [Order Tracker](OrderTracker.md) - Real-time tracking of order status and location
+* [Route to Invoice Workflow](RouteToInvoiceWorkflow.md) - End-to-end consignment flow, the minimum delivery → usage → sales order path, and the usage-billing calculation
 * [Treatments](Treatments.md) - Record and manage treatment activities
 * [Treatment Routes](TreatmentRoutes.md) - Create and manage treatment routes
 * [Treatment Approvals](TreatmentApprovals.md) - Approve treatment routes and schedules
