@@ -2,12 +2,14 @@
 
 ## Status Flow
 
+* **Not Received**:  Lab Order created but the physical sample has not yet been received by the lab.
 * [Draft](LabOrderStatus/Draft-Lab-Order.md):  Inital Lab Order is created on Mobile and awaiting final input numbers.
 * [Requested](Create-Lab-Order.md):  Lab Request and Sample created and turned into Lab Technician for review.
 * [Processing](LabOrderStatus/CheckIn-Lab-Order.md):  Lab Request for testing checked-in and approved by Lab Technician.
 * [Completed](LabOrderStatus/Complete-Lab-Order.md):  Lab Request test completed, result data entered, and awaiting Lab Technician approval.
 * [Approved](LabOrderStatus/Approve-Lab-Order.md):  Lab Request data approved by Lab Technician.
 * [Reported](LabOrderStatus/Report-Lab-Order.md):  Lab Request Result data reports available and sent to Service Tech and Account Manager.
+* **Rejected**:  Lab Request rejected by the Lab Technician (with a rejection comment); the requester is notified.
 * [Cancelled](LabOrderStatus/Cancel-Lab-Order.md):  Lab Request for testing cancelled by the Lab Technician or requesting Service Tech/Account Manager.
 
 
